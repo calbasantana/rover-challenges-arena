@@ -18,19 +18,7 @@ Steve Spangler's 1 Liter Soda Bottles - 6 Pack - for Science Experiment Use - th
 
 # The Challenges Arena
 
-# The Challenges
-
-One important aspect of this project is the use of a custom PCB. This was created with EasyEDA. Here are the schematics:
-
-![image](https://github.com/user-attachments/assets/44ecc89b-3cdd-4da3-99c9-52e4c7eabb46)
-
-Here is the PCB outline:
-
-![image](https://github.com/user-attachments/assets/b514f2c9-eef9-40e9-a129-f96b11c3f52a)
-
-I have attached the Gerber file for this project so it is easy to order using EasyEDA's partner website: https://jlcpcb.com/
-
-# 3D-Printed Parts
+## 3D-Printed Parts
 
 ![image](https://github.com/user-attachments/assets/7efa9d2a-d2e1-4c45-a655-ee21e8b9ea24)
 
@@ -53,61 +41,11 @@ INLAND Gray High Speed PLA+ Filament - Fast Printing PLA Plus 3D Filament - 1.75
   Supports: Everywhere \
   Estimated Printing Time: 5 hours and 48 minutes.
 
-## Software
-I personally like to use Thonny for my editing/programming of microcontrollers, so that is what I have here.
+## Lasercut Parts
 
-![image](https://github.com/user-attachments/assets/bdf82154-0b6a-46a4-ad36-1136e40ee667)
+## Sawed Parts
 
-## Code
-
-If you do not want to download the .py file, you can just copy the following to your clipboard.
-
-```bash
-from machine import Pin, PWM
-from time import sleep, time
-
-# Define the servo control pin
-servo_pin = 26
-servo = PWM(Pin(servo_pin), freq=50)  # Initialize PWM
-
-# Define the push button pin
-button_pin = 25
-button = Pin(button_pin, Pin.IN, Pin.PULL_UP)
-
-# Function to set the servo angle
-def set_servo_angle(angle):
-    min_duty = 40  # Minimum duty cycle (0 degrees)
-    max_duty = 105  # Adjusted maximum duty cycle (80 degrees)
-    duty = min_duty + (angle / 80) * (max_duty - min_duty)
-    servo.duty(int(duty))
-    sleep(0.5)  # Allow time for servo to move
-
-# Function to open and close once a day
-last_open_time = 0
-def daily_open():
-    global last_open_time
-    current_time = time()
-    if current_time - last_open_time >= 86400:  # 86400 seconds in a day
-        last_open_time = current_time
-        set_servo_angle(30)  # Open position
-        sleep(3)
-        set_servo_angle(0)  # Closed position
-
-# Main loop
-while True:
-    daily_open()
-    if button.value() == 0:  # Button is pressed
-        set_servo_angle(30)  # Open position
-        while button.value() == 0:  # Wait while button is held
-            sleep(0.1)
-        set_servo_angle(0)  # Closed position
-    sleep(1)
-```
-# Video
-
-https://github.com/user-attachments/assets/65a6cb7d-3ea9-44d5-b50c-2d82d885eb4d
-
-As you can see in the video above, I do it without water, which is kind of defeating the purpose, but this design does suffer from the previously mentioned issues in the introduction section.
+### Spray Painting
 
 # Tips
 
