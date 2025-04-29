@@ -6,6 +6,10 @@
 
 ## Material(s)
 
+## CAD Model
+
+![image](https://github.com/user-attachments/assets/a972defb-2e96-47b4-b976-2692e1481ccb)
+
 ## 3D-Printed Parts
 
 ## Lasercut Parts
