@@ -2,6 +2,39 @@
 
 # Introduction
 
+# Challenges Arena Construction
+
+## Material(s)
+
+## 3D-Printed Parts
+
+## Lasercut Parts
+
+## Stencils and Spray Painting
+
+# Challenges Overview
+
+## Challenge 1:
+
+## Challenge 2:
+
+## Challenge 3:
+
+## Challenge 4:
+
+## Challenge 5:
+
+## Challenge 6:
+
+## Challenge 7:
+
+## Challenge 8:
+
+## Challenge 9:
+
+## Challenge 10:
+
+
 This is an on-going project for my physics class, with the goal of supporting students connecting physics and engineering through a set of challenges.
 
 # Material(s)
