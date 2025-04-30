@@ -1,7 +1,13 @@
 
 
 # Introduction
-Over the past year, I have modified my introductory physics curriculum after experiencing FIRST Lego League (FLL) through the lens of a coach. In FLL, students are tasked with completing a series of challenges, for which they earn points, using a Lego robot in autonomous mode. Over the previous years, I had students create a robot, which 
+Over the past year, I have modified my introductory physics curriculum after experiencing FIRST Lego League (FLL) through the lens of a coach. In FLL, students are tasked with completing a series of challenges, for which they earn points, using a Lego robot in autonomous mode. In previous years, students had constructed a rover capable of navigating autonomously and completed one of the challenges laid out here (challenge 4 -- the maze challenge).
+
+Now, however, thanks to my FLL experiences, I have expanded from one challenge to ten total challenges. This resulted in the creation of a Rover Challenges Arena, which will be described here in detail. Specifically, I will highlight:
+
+* The construction of the arena
+* The challenges themselves
+
 # Challenges Arena Construction
 
 ## Material(s)
