@@ -19,7 +19,24 @@ The Challenges Arena was constructed with the aid of a lasercutter, 3D printer, 
 * [3 Sets of Double-Sided 1" x 4" Double-Sided Adhesive Strip ($11.39 each, or $34.17 total)](https://www.amazon.com/Art3d-Sticky-Double-Sided-Command-Adhesive/dp/B0B58FKYR2/ref=sr_1_1?crid=22B481I3SFL6R&dib=eyJ2IjoiMSJ9.A2B6OT_LOvZXohm-BlbceYOcshjdus2IDo5k_h1wy8-cEOHCXbbANRf86B_nS6EVq4EoobkUJbMZQd32VG3bDD5A49QHKAI-VQIR7RUbW3XWLG98o0L54LONU7K1yxlXf8c3es9p_BydkzHjl_lKdw.d25SE_JEw66mBVhbVdr_95c5hoTpxGL0F_RMJ-2SvRo&dib_tag=se&keywords=art3d%2B40%2Bsets%2Bhook&qid=1746033877&sprefix=art3d%2B40%2Bsets%2Bhook%2Caps%2C80&sr=8-1&th=1)
 * [Braided Rope ($9.99)](https://www.amazon.com/MaxxHaul-50227-Strength-Sunlight-Resistant-Multicolor/dp/B07X64Z69L/ref=sr_1_1?crid=2B23R4N5A2BX8&dib=eyJ2IjoiMSJ9.vX42Ucwmw4k0bD5FDlHEoYoZ1eOJe3dpnWChK3ya16vBR6mXtR0iEoQtrr280W5rxZje9oe-2tDafWHfKAmmX29tTzUf3edLibGl1Oe-Nrhzq-03ek-61rh2IldE9l22u6StnLa9bX5viGIRuAySAdo2TYzv4lBuIG1Dvl3RKiVqlJKpWu668c0G8IeU9q8C.Eg5nECh_pmGK6JNrQ-JtpWu6llSGSfZgjDYm4Y7K-kM&dib_tag=se&keywords=maxxhaul%2B50227&qid=1746033619&sprefix=maxxhaul%2B50227%2Caps%2C93&sr=8-1&th=1)
 * [2 Triangle Shelf Brackets ($9.49)](https://www.amazon.com/Dewell-Triangle-Brackets-Mounted-Supports/dp/B07QLK6PWS/ref=sr_1_5?crid=YEVDP2NLS14D&dib=eyJ2IjoiMSJ9.mD8NFGLjEl_Ew-2HTP1eDbLqgqMKLC9IvO6CuOn-fwEfRfk5x3rQ_5cWb3hpmZ3jvYcyyHJylOhzYPvnqqkSGKlc2IC09MW2F0YGaAlDDVQR48LqzwzBc-O_qaMosoYeTF8Y7OUFtbdcV_yizJEu2ZaxPUqsztRnCKrZWY2Vo4NHhBFQFuSHTPqvb3X9Z8JXQjFqCRZ6qYQJtxSA6MWXTiSjNSjlj3MvDjPNSzt8NPLy7o74yaKyep7O4pfCb6bhiOXQ2iOse2Fi3bK5UARF3tEqIfUCytR-OoZ77Ga6hkw.1tmzoMcrdr8rDU49Leq5dS9wHz987PSkPxzHXIsKmU0&dib_tag=se&keywords=2%2Bpcs%2B8inch%2Btripod%2Btriangle%2Bshelf%2Bbrackets%2C%2Bwall%2Bmounted%2Bshelf%2Bsupports%2Bblack%2C%2Bbt200&qid=1746033457&sprefix=2%2Bpcs%2B8inch%2Btripod%2Btriangle%2Bshelf%2Bbrackets%2C%2Bwall%2Bmounted%2Bshelf%2Bsupports%2Bblack%2C%2Bbt200%2Caps%2C76&sr=8-5&th=1)
-* 
+
+For Challenge 5: Surface Navigation, I made a model of the lunar surface because I wanted students to experience navigating difficult terrain; to create this, I used the following materials:
+* D
+* D
+* D
+* D
+
+In addition to these materials, I also used 3mm hex screws and nuts, which can be found below:
+* D
+* D
+
+I decided to use spray paint for the stencils, although in retrospect, it may have been easier to use acrylic paint since many of the numbers didn't come out as well as I wanted to. Here is the spray painting equipment I used:
+* D
+* D
+* D
+* D
+* D
+
 ## CAD Model
 
 ## 3D-Printed Parts
