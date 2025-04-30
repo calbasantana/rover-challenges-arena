@@ -27,15 +27,15 @@ For Challenge 5: Surface Navigation, I made a model of the lunar surface because
 * D
 
 In addition to these materials, I also used 3mm hex screws and nuts, which can be found below:
-* D
-* D
+* [M3 x 10mm Socket Head Cap Screws ($7.69)](https://www.amazon.com/Fullerkreg-Socket-Stainless-Machine-Quantity/dp/B07CK3RSN3/ref=sr_1_5?crid=3H0VKRDPKMDJD&dib=eyJ2IjoiMSJ9.5cwmrmUaoMrO1FhEb8C7S2zYYEfFhkcoPVWI1AWxfRPpFFWaoSkM5ZSmWdDQo3jy-GlVr8VQ2m1u0JNN-x0wjKS_UAEmSaYWSjL6PUN1rSeptSGcJ_4hKYNM_u05t0rWOO26Cb1m1Rw2CDo4Ern3r6vQ-0WFcKX2rG_t_bDkk-nRVjjLPHesryGC-YOfl1KIK80PLv5En1Nl9JuW4GLeJPb9KuzvbbobeIyoewiOaRU.STpgRWxz7-wPsKey8hZ1YYtTuX6hTj8UY4NBwivCB4g&dib_tag=se&keywords=m3%2Bscrew%2Bhex%2B10mm&qid=1746035230&sprefix=m3%2Bscrew%2Bhex%2B10mm%2Caps%2C69&sr=8-5&th=1)
+* [M3 Locknuts ($5.99)](https://www.amazon.com/M3-Locknuts-Self-Lock-Stainless-Self/dp/B0D146SHYF/ref=sr_1_4?crid=6VMBK7GG9FXG&dib=eyJ2IjoiMSJ9.Aqi5iizk7KLacYEljjXlRNVrCfXJ9HZ9UTT2Np2piLPe9SPvjOEK9aYJGddoxdgpkdT_hwEOsZsYpVUpyG23__bUq1gOXM485iPlZTP1i-0muQn_B2R2s4DzIAbj-v-Z5tL3rhNZY3cAMdkCkCwxbiU1KX6JDw61m1xm40_wuU3kR8H7a-PRiZogYfNYRa5Y5qv5JL90kfdAKrac3IjAUjSaxy6fNih5KV69CjWaWmxlPiyjZqEQ6K6Lyp4RcqYGaEmRPHQ1pJAF7hEWMyKA-2luZ8eNNwAOVOE0kfWDpEY.9VcccKVU2Ege0pStl6CGM_geIWnR3wa6avOWbUkeuok&dib_tag=se&keywords=m3%2Bhex%2Block%2Bnut&qid=1746035311&s=industrial&sprefix=m3%2Bhex%2Block%2Bnut%2Cindustrial%2C56&sr=1-4&th=1)
 
 I decided to use spray paint for the stencils, although in retrospect, it may have been easier to use acrylic paint since many of the numbers didn't come out as well as I wanted to. Here is the spray painting equipment I used:
-* D
-* D
-* D
-* D
-* D
+* [Rust-Oleum Black Camouflage Spray Paint ($6.98)](https://www.homedepot.com/p/Rust-Oleum-Specialty-12-oz-Black-Camouflage-Spray-Paint-279179/326885188)
+* [Rust-Oleum Gloss Colonial Red Spray Paint ($6.48)](https://www.homedepot.com/p/Rust-Oleum-Painter-s-Touch-2X-12-oz-Gloss-Colonial-Red-General-Purpose-Spray-Paint-334030/307244800)
+* [Rust-Oleum Gloss Hunter Green Spray Paint ($6.48)](https://www.homedepot.com/p/Rust-Oleum-Painter-s-Touch-2X-12-oz-Gloss-Hunter-Green-General-Purpose-Spray-Paint-334034/307244781)
+* [Rust-Oleum Satin Ink Blue Spray Paint ($6.48)](https://www.homedepot.com/p/Rust-Oleum-Painter-s-Touch-2X-12-oz-Satin-Ink-Blue-General-Purpose-Spray-Paint-334093/307244914)
+* [3M Professional Paint Spray Respirator Medium ($48.98)](https://www.homedepot.com/p/3M-Professional-Paint-Spray-Respirator-Medium-7512PA1-A-PS/202077812)
 
 ## CAD Model
 
