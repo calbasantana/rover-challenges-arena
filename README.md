@@ -109,10 +109,14 @@ Once all parts have been completed and relevant parts spray painted, it's time f
 For Challenge 5: Surface Navigation, I recommend adding some tape along the walls so the mixture doesn't seep through easily. You can include as many or as few rocks as you would like. I recommend using the medium-sized rocks all throughout the surface and the larger rocks for Challenge 1: Hercules's Push and maybe a few spread out on the Challenge 5: Surface Navigation.
 
 # Challenges Overview
-This part is the most relevant for students as it relates to what each challenge is specifically asking, so some students viewing this repository might want to skip to this section.
+This part is the most relevant for students as it relates to what each challenge is specifically asking, so some students viewing this repository might want to skip to this section. For each challenge, there is an **Engineering Component** and a **Physics Component**. Students will be awarded points based on both the physical completion of the challenge (the former) and the completion of the mini-lab associated with it (the latter).
+
+A complete description of each challenge will be found below. Please note that the maximum number of points possible is 800, but teams average around 100-200 historically.
 
 ## Challenge 1: Hercules's Push
 [IMAGE of CHALLENGE FIELD]
+
+**Engineering Component**
 
 For this challenge, students are tasked with pushing a lava rock from one end of the field to the other. Points are determined based on accuracy to the target location as shown below:
 
@@ -123,6 +127,14 @@ For this challenge, students are tasked with pushing a lava rock from one end of
 | <4cm  | 15  |
 | <6cm  | 5  |
 
+**Physics Component**
+
+This challenge requires students to be familiar with kinematics and coding in micropython, as they will be required to:
+
+* Program their rover so that it has constant acceleration
+* Use a kinematic equation to determine the push and net accelerations of their rover
+* Create force diagrams for the lava rock
+* Determine force of friction on the lava rock
 
 **Student Example**
 
