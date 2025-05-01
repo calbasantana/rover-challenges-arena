@@ -114,12 +114,15 @@ This part is the most relevant for students as it relates to what each challenge
 ## Challenge 1: Hercules's Push
 [IMAGE of CHALLENGE FIELD]
 
-For this assignment, students are tasked with pushing a lava rock from one end of the field to the other. Points are determined based on accuracy to the target location as shown below:
+For this challenge, students are tasked with pushing a lava rock from one end of the field to the other. Points are determined based on accuracy to the target location as shown below:
 
-| First Header  | Second Header |
+| Distance from Target  | Points Awarded |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Not Attempted  | 0  |
+| <2cm  | 20  |
+| <4cm  | 15  |
+| <6cm  | 5  |
+
 
 **Student Example**
 
