@@ -1,4 +1,4 @@
-
+[IMAGE OF CHALLENGES ARENA -- PHYSICAL]
 
 # Introduction
 Over the past year, I have modified my introductory physics curriculum after experiencing FIRST Lego League (FLL) through the lens of a coach. In FLL, students are tasked with completing a series of challenges, for which they earn points, using a Lego robot in autonomous mode. In previous years, students had constructed a rover capable of navigating autonomously and completed one of the challenges laid out here (challenge 4 -- the maze challenge).
@@ -140,14 +140,13 @@ More details on how students are graded for this can be found in the assignment 
 
 The grading rubric, which is the same for all challenges, is included below:
 
-| Proficiency Level  | Points Awarded |
-| ------------- | ------------- |
-| **Not Yet**: You have not correctly completed any of the elements of this challenge component.
-  | 0  |
-| **Approaching Proficiency**: You have correctly completed at least one element of this challenge component.
-  | 20  |
-| <4cm  | 15  |
-| <6cm  | 5  |
+| Proficiency Level  | Points Awarded | Grade |
+| ------------- | ------------- | ------------ |
+| **Not Yet**: You have not correctly completed any of the elements of this challenge component. | 0 | 50% |
+| **Approaching Proficiency**: You have correctly completed at least one element of this challenge component. | 10 | 60% |
+| **Somewhat Proficient**: You have correctly completed half of the elements of this challenge component. | 20 | 70% |
+| **Proficient**: You have correctly completed all of the elements of this challenge component. | 30 | 85% |
+| **Exceeding Proficiency**: You have additionally and correctly completed the independent element of this challenge component.  | 40 | 100 %|
 
 **Student Example**
 
