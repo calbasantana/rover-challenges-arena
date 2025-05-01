@@ -106,29 +106,29 @@ For spray painting, I went outside on a nice cool day and began color coding thi
 ## Assembly
 Once all parts have been completed and relevant parts spray painted, it's time for assembly. I highly suggest building the middle layer first so you can connect the large walnut sheet across both tables, which will provide some stability as you go on to assemble the rest. I expct assembly to take a full day or two given all the parts and screwing of components required.
 
+For Challenge 5: Surface Navigation, I recommend adding some tape along the walls so the mixture doesn't seep through easily. You can include as many or as few rocks as you would like. I recommend using the medium-sized rocks all throughout the surface and the larger rocks for Challenge 1: Hercules's Push and maybe a few spread out on the Challenge 5: Surface Navigation.
+
 # Challenges Overview
 This part is the most relevant for students as it relates to what each challenge is specifically asking, so some students viewing this repository might want to skip to this section.
 
-## Challenge 1:
+## Challenge 1: Hercules's Push
 
-## Challenge 2:
+## Challenge 2: How Far?
 
-## Challenge 3:
+## Challenge 3: A Rocky Landing
 
-## Challenge 4:
+## Challenge 4: A Way Out
 
-## Challenge 5:
+## Challenge 5: Surface Navigation
 
-## Challenge 6:
+## Challenge 6: Welcome to Seattle
 
-## Challenge 7:
+## Challenge 7: Down the Canyon
 
-## Challenge 8:
+## Challenge 8: Giving a Gift
 
-## Challenge 9:
+## Challenge 9: SUMO
 
-## Challenge 10:
+## Challenge 10: Resupply Mission
 
 # Tips
-
-I hope that if anyone does something similar, they are able to troubleshoot the issues I've been having and maybe even help out a bit. For now, I'm shelving this project.
