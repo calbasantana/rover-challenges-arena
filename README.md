@@ -119,6 +119,19 @@ This part is the most relevant for students as it relates to what each challenge
 
 A complete description of each challenge will be found below. Please note that the maximum number of points possible is 800, but teams average around 100-200 historically.
 
+**Challenges**
+
+Challenge 1: Hercules's Push \
+Challenge 2: How Far? \
+Challenge 3: A Rocky Landing \
+Challenge 4: A Way Out \
+Challenge 5: Surface Navigation \
+Challenge 6: Welcome to Seattle \
+Challenge 7: Down the Canyon \
+Challenge 8: Giving a Gift \
+Challenge 9: SUMO \
+Challenge 10: Resupply Mission \
+
 ## Challenge 1: Hercules's Push
 [IMAGE of CHALLENGE FIELD]
 
