@@ -146,7 +146,7 @@ The grading rubric, which is the same for all challenges, is included below:
 | **Approaching Proficiency**: You have correctly completed at least one element of this challenge component. | 10 | 60% |
 | **Somewhat Proficient**: You have correctly completed half of the elements of this challenge component. | 20 | 70% |
 | **Proficient**: You have correctly completed all of the elements of this challenge component. | 30 | 85% |
-| **Exceeding Proficiency**: You have additionally and correctly completed the independent element of this challenge component.  | 40 | 100 %|
+| **Exceeding Proficiency**: You have additionally and correctly completed the independent element of this challenge component.  | 40 | 100% |
 
 **Student Example**
 
