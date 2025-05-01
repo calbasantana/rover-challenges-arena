@@ -404,23 +404,30 @@ Below is an example of a team who were able to complete this challenge.
 
 **Engineering Component**
 
-For this challenge, students are tasked with pushing a lava rock from one end of the field to the other. Points are determined based on accuracy to the target location as shown below:
+This, and the subsequent two challenges, are considered "Competition"-style challenges. This means that students will compete against other teams; for two of these challenges, it will be in real time, but for the last one it will be in timed trials.
 
-| Distance from Target  | Points Awarded |
+For this specific challenge, each team places their rover at either end of the field and they are tasked with pushing a flag of the opposing team into the opposing team's base. Essentially, students are tasked with returning flags to the opposing team or -- as the name suggests -- giving them a gift.
+
+This challenge can only run if there are at least three teams taking part in it. If only one or two teams decide to take part, then it isn't much of a competition; for that reason, should there be fewer than three teams competing, then both teams, or the single team competing, will receive points that would typically be awarded to those in second place.
+
+Based on placement in the competition, the points awarded will be as described in the table below.
+
+| Placement | Points Awarded |
 | ------------- | ------------- |
-| Not Attempted  | 0  |
-| <2cm  | 20  |
-| <4cm  | 15  |
-| <6cm  | 5  |
+| Not Attempted | 0 |
+| First Place | 60 |
+| Second Place | 30 |
+| Third Place | 15 |
 
 **Physics Component**
 
-This challenge requires students to be familiar with kinematics (as well as forces) concepts and coding in micropython, as they will be required to:
+This challenge requires students to be familiar with momentum (as well as the law of conservation of momentum) concepts and coding in micropython, as they will be required to:
 
-* Program their rover so that it has constant acceleration
-* Use a kinematic equation to determine the push and net accelerations of their rover
-* Create force diagrams for the lava rock
-* Determine force of friction on the lava rock
+* Determine initial momentum of the system
+* Determine final momentum of the system
+* Determine how much momentum is lost and why
+
+However, students should note that -- at least in my classes -- momentum and the law of conservation of momentum are only covered in the honors version of the course, meaning that to complete the physics component of this challenge, if they do not have the prerequisite background, they will need to learn it on their own or with aid of PositivePhysics.
 
 More details on how students are graded for this can be found in the assignment itself, which is under Documents in Challenge 1: Hercules's Push folder. The document is listed as docx and PDF files.
 
@@ -436,6 +443,10 @@ The grading rubric, which is the same for all challenges, is included below:
 
 **Student Example**
 
+The last time I ran this, only one team decided to attempt the challenge, so this is the only available video of students completing this challenge that I have.
+
+[VIDEO]
+
 ## Challenge 9: SUMO
 [IMAGE OF CHALLENGE FIELD]
 
@@ -443,12 +454,12 @@ The grading rubric, which is the same for all challenges, is included below:
 
 For this challenge, students are tasked with pushing a lava rock from one end of the field to the other. Points are determined based on accuracy to the target location as shown below:
 
-| Distance from Target  | Points Awarded |
+| Placement | Points Awarded |
 | ------------- | ------------- |
-| Not Attempted  | 0  |
-| <2cm  | 20  |
-| <4cm  | 15  |
-| <6cm  | 5  |
+| Not Attempted | 0 |
+| First Place | 60 |
+| Second Place | 30 |
+| Third Place | 15 |
 
 **Physics Component**
 
@@ -480,12 +491,12 @@ The grading rubric, which is the same for all challenges, is included below:
 
 For this challenge, students are tasked with pushing a lava rock from one end of the field to the other. Points are determined based on accuracy to the target location as shown below:
 
-| Distance from Target  | Points Awarded |
+| Placement | Points Awarded |
 | ------------- | ------------- |
-| Not Attempted  | 0  |
-| <2cm  | 20  |
-| <4cm  | 15  |
-| <6cm  | 5  |
+| Not Attempted | 0 |
+| First Place | 60 |
+| Second Place | 30 |
+| Third Place | 15 |
 
 **Physics Component**
 
