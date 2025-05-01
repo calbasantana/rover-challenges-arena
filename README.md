@@ -121,7 +121,7 @@ A complete description of each challenge will be found below. Please note that t
 
 **Challenges**
 
-[Challenge 1: Hercules's Push](## Challenge 1: Hercules's Push) \
+[Challenge 1: Hercules's Push](#challenge) \
 Challenge 2: How Far? \
 Challenge 3: A Rocky Landing \
 Challenge 4: A Way Out \
