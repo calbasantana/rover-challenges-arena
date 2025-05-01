@@ -328,25 +328,23 @@ Below you will find a video of how a team completed the engineering component of
 
 **Engineering Component**
 
-For this challenge, students are tasked with pushing a lava rock from one end of the field to the other. Points are determined based on accuracy to the target location as shown below:
+Seattle is known for being a hilly city and on an escapade a few years back, I learned the lesson the hard way. For this challenge, students are required to have their rover move up a steep incline. They will be awarded points based on how far their rover makes it up the incline; for some rovers, they will only make it part of the way up and then they will fall backwards and for others they will make it over quite easily and fall forward. Either way, points are awarded as shown below.
 
-| Distance from Target  | Points Awarded |
+| Distance Traveled | Points Awarded |
 | ------------- | ------------- |
-| Not Attempted  | 0  |
-| <2cm  | 20  |
-| <4cm  | 15  |
-| <6cm  | 5  |
+| Not Attempted  | 0 |
+| <15cm  | 20 |
+| 15-30cm  | 15 |
+| >30cm  | 5 |
 
 **Physics Component**
 
-This challenge requires students to be familiar with kinematics (as well as forces) concepts and coding in micropython, as they will be required to:
+This challenge requires students to be familiar with forces concepts primarily, as they will be required to:
 
-* Program their rover so that it has constant acceleration
-* Use a kinematic equation to determine the push and net accelerations of their rover
-* Create force diagrams for the lava rock
-* Determine force of friction on the lava rock
+* Determine the maximum angle at which their rover can stay still on an incline
+* Determine the values of all forces on their rover on an incline plane
 
-More details on how students are graded for this can be found in the assignment itself, which is under Documents in Challenge 1: Hercules's Push folder. The document is listed as docx and PDF files.
+More details on how students are graded for this can be found in the assignment itself, which is under Documents in Challenge 6: Welcome to Seattle folder. The document is listed as docx and PDF files.
 
 The grading rubric, which is the same for all challenges, is included below:
 
@@ -359,6 +357,8 @@ The grading rubric, which is the same for all challenges, is included below:
 | **Exceeding Proficiency**: You have additionally and correctly completed the independent element of this challenge component.  | 40 | 100% |
 
 **Student Example**
+
+As of yet, there has not been a single team who has completed this challenge, though many have tried; unfortunately, there is no student example to show here.
 
 ## Challenge 7: Down the Canyon
 [IMAGE OF CHALLENGE FIELD]
