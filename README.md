@@ -89,7 +89,7 @@ Speed (mm/s): 5 \
 Pass: 1
 
 ## Hand Sawn Parts
-The last set of parts are those that need to be sawn. I purchased the large walnut sheets from Home Depot (HD) and got someone to saw them for me. For the small parts, I used a hand saw. Below are the dimensions required:
+The last set of parts are those that need to be sawn. I purchased the large walnut sheets from Home Depot and got someone there to saw most of them for me. For the small parts, I used a hand saw. Below are the dimensions required:
 
 * 1 44" x 40"
 * 1 44" x 20"
@@ -101,10 +101,13 @@ The last set of parts are those that need to be sawn. I purchased the large waln
 Once you have finished these parts, you will be ready to use the stencils and spray paint.
 
 ## Stencils and Spray Painting
+For spray painting, I went outside on a nice cool day and began color coding things. You might do things differently, but you can tell from the pictures of the challenges how I decided to color things. In retrospect, as I mentioned before, I think I should have opted for acrylic paint because some of the spray paint didn't stick too well or bled out too much into the wood grain.
 
 ## Assembly
+Once all parts have been completed and relevant parts spray painted, it's time for assembly. I highly suggest building the middle layer first so you can connect the large walnut sheet across both tables, which will provide some stability as you go on to assemble the rest. I expct assembly to take a full day or two given all the parts and screwing of components required.
 
 # Challenges Overview
+This part is the most relevant for students as it relates to what each challenge is specifically asking, so some students viewing this repository might want to skip to this section.
 
 ## Challenge 1:
 
