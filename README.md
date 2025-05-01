@@ -75,7 +75,7 @@ Estimated Printing Time: ~ 3 weeks.
 For the laser cut parts, which can be found in two separate folders -- "Laser Cuts" for parts that will be cut from the walnut sheets and "Stencils" for those that will be cut from the cardboard sheets -- are inside each of the challenge's main folder.
 
 ### Laser Cutting Process
-Luckily, it is much quicker to fully cut all parts that need to be laser cut for this challenges arena.
+Luckily, it is much quicker to fully cut all parts that need to be laser cut for this challenges arena. Make sure to remember to use cardboard for the stencils.
 
 #### Lasercutter
 XTool D1 Pro
@@ -88,7 +88,18 @@ Power (%): 100 \
 Speed (mm/s): 4 \
 Pass: 3
 
+## Hand Sawn Parts
+The last set of parts are those that need to be sawn. I purchased the large walnut sheets from Home Depot (HD) and got someone to saw them for me. For the small parts, I used a hand saw. Below are the dimensions required:
+
+* 1 1" x 1"
+* 2 5" x 5"
+* 3 10" x 10"
+
+Once you have finished these parts, you will be ready to use the stencils and spray paint.
+
 ## Stencils and Spray Painting
+
+## Assembly
 
 # Challenges Overview
 
