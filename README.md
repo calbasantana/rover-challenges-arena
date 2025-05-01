@@ -24,9 +24,9 @@ The Challenges Arena was constructed with the aid of a lasercutter, 3D printer, 
 * [Braided Rope ($9.99)](https://www.amazon.com/MaxxHaul-50227-Strength-Sunlight-Resistant-Multicolor/dp/B07X64Z69L/ref=sr_1_1?crid=2B23R4N5A2BX8&dib=eyJ2IjoiMSJ9.vX42Ucwmw4k0bD5FDlHEoYoZ1eOJe3dpnWChK3ya16vBR6mXtR0iEoQtrr280W5rxZje9oe-2tDafWHfKAmmX29tTzUf3edLibGl1Oe-Nrhzq-03ek-61rh2IldE9l22u6StnLa9bX5viGIRuAySAdo2TYzv4lBuIG1Dvl3RKiVqlJKpWu668c0G8IeU9q8C.Eg5nECh_pmGK6JNrQ-JtpWu6llSGSfZgjDYm4Y7K-kM&dib_tag=se&keywords=maxxhaul%2B50227&qid=1746033619&sprefix=maxxhaul%2B50227%2Caps%2C93&sr=8-1&th=1)
 * [2 Triangle Shelf Brackets ($9.49)](https://www.amazon.com/Dewell-Triangle-Brackets-Mounted-Supports/dp/B07QLK6PWS/ref=sr_1_5?crid=YEVDP2NLS14D&dib=eyJ2IjoiMSJ9.mD8NFGLjEl_Ew-2HTP1eDbLqgqMKLC9IvO6CuOn-fwEfRfk5x3rQ_5cWb3hpmZ3jvYcyyHJylOhzYPvnqqkSGKlc2IC09MW2F0YGaAlDDVQR48LqzwzBc-O_qaMosoYeTF8Y7OUFtbdcV_yizJEu2ZaxPUqsztRnCKrZWY2Vo4NHhBFQFuSHTPqvb3X9Z8JXQjFqCRZ6qYQJtxSA6MWXTiSjNSjlj3MvDjPNSzt8NPLy7o74yaKyep7O4pfCb6bhiOXQ2iOse2Fi3bK5UARF3tEqIfUCytR-OoZ77Ga6hkw.1tmzoMcrdr8rDU49Leq5dS9wHz987PSkPxzHXIsKmU0&dib_tag=se&keywords=2%2Bpcs%2B8inch%2Btripod%2Btriangle%2Bshelf%2Bbrackets%2C%2Bwall%2Bmounted%2Bshelf%2Bsupports%2Bblack%2C%2Bbt200&qid=1746033457&sprefix=2%2Bpcs%2B8inch%2Btripod%2Btriangle%2Bshelf%2Bbrackets%2C%2Bwall%2Bmounted%2Bshelf%2Bsupports%2Bblack%2C%2Bbt200%2Caps%2C76&sr=8-5&th=1)
 
-**Challenge 5: Surface Navigation Terrain**
+**Challenge 5: Surface Navigation with Lunar Rock Terrain**
 
-For Challenge 5: Surface Navigation, I made a model of the lunar surface because I wanted students to experience navigating difficult terrain; to create this, I used the following materials:
+For Challenge 5: Surface Navigation with Lunar Rock, I made a model of the lunar surface because I wanted students to experience navigating difficult terrain; to create this, I used the following materials:
 
 * [10lb Large Black Lava Rocks ($29.99)](https://www.amazon.com/Onlyfire-Granules-Decorative-Outdoor-Fireplaces/dp/B0BPL24PYG/ref=sr_1_2_sspa?crid=3P5FI6RRUCZOB&dib=eyJ2IjoiMSJ9.JmOM5-lc2pH3OgQG5RZ3RozwimWolB-MQtRG4gYwChcYMLeNrl9B_ecJg2Kwf1XEiKgSEjfYcLbgHkoEw6H10cuYDTpWjFuTIaxZy1kq6CTBDHaf2NBNoJP7Ut9SLHtBp7Bs9rZFNv6Ffio4pxGRK9FwWIsDUkMPAjzK8Qc33fJ1br5mVGf3RGM6X3RldxumpyvoUUZO7Ob2PtoeRiAyo6OaegZk7BuCqlGGBg0MNW63owIhHmhjhO2-nPDYkPsRbmN7LJqcO_U0uBJgWZkgPbCT6Uj-o0BjGqWU9NmeOXI.lii--GXzkwfce3hvZe2r9nkoplsU8O3dqV0LXwFIckA&dib_tag=se&keywords=black%2B1-3%2Binch%2Blava%2Brock&qid=1746036115&sprefix=black%2B1-3%2Binch%2Blava%2Broc%2Caps%2C108&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1)
 * [5 Bags of Medium (1/2" - 1") Lava Rocks ($12.35 each, or $61.75 total)](https://www.amazon.com/American-Fireglass-Medium-Lava-Rock/dp/B002NHW0NS/ref=sr_1_1?crid=26286EVLSD759&dib=eyJ2IjoiMSJ9.whcHQovDUftm9bnUpW3bYk_ffljyis4tszzlPtJs_B8YAITusGs_YG4jB-miDM0L7OVhpzIor3L5HAgjnvo8Eaem8LbPDLxiVwBtpnwcSoVXwiGCIGEW_H7scKNLHKJjNIq4a0O22X0owtAFRruY1HUlGZ391XMr69hKJibGmIK2loJ454v8dBkVKuwN5bbnipV_dP0TGbsYsCnsyzxvwVAfUd9X0xketRhrYjXtaZP_L37A97RE68wjLa4Bis8i9tu2UkozuS-dGjpoPI-vLnDNrjuJDmD0G1PJ8LhpCbM.fskn1cddL_ro2n-t12f4J_kMwMXGLl8hRejJngE0DeA&dib_tag=se&keywords=american%2Bfireglass%2Bmedium%2Blava%2Brock&qid=1746036162&sprefix=american%2Bfireglass%2Bmedium%2Blava%2Brock%2Caps%2C87&sr=8-1&th=1)
@@ -112,7 +112,7 @@ For spray painting, I went outside on a nice cool day and began color coding thi
 ## Assembly
 Once all parts have been completed and relevant parts spray painted, it's time for assembly. I highly suggest building the middle layer first so you can connect the large walnut sheet across both tables, which will provide some stability as you go on to assemble the rest. I expct assembly to take a full day or two given all the parts and screwing of components required.
 
-For Challenge 5: Surface Navigation, I recommend adding some tape along the walls so the mixture doesn't seep through easily. You can include as many or as few rocks as you would like. I recommend using the medium-sized rocks all throughout the surface and the larger rocks for Challenge 1: Hercules's Push and maybe a few spread out on the Challenge 5: Surface Navigation.
+For Challenge 5: Surface Navigation with Lunar Rock, I recommend adding some tape along the walls so the mixture doesn't seep through easily. You can include as many or as few rocks as you would like. I recommend using the medium-sized rocks all throughout the surface and the larger rocks for Challenge 1: Hercules's Push and maybe a few spread out on the Challenge 5: Surface Navigation with Lunar Rock.
 
 # Challenges Overview
 This part is the most relevant for students as it relates to what each challenge is specifically asking, so some students viewing this repository might want to skip to this section. For each challenge, there is an **Engineering Component** and a **Physics Component**. Students will be awarded points based on both the physical completion of the challenge (the former) and the completion of the mini-lab associated with it (the latter).
@@ -126,7 +126,7 @@ A complete description of each challenge will be found below. Please note that t
 
 For this challenge, students are tasked with pushing a lava rock from one end of the field to the other. Points are determined based on accuracy to the target location as shown below:
 
-| Distance from Target  | Points Awarded |
+| Distance from Target | Points Awarded |
 | ------------- | ------------- |
 | Not Attempted  | 0  |
 | <2cm  | 20  |
@@ -146,7 +146,7 @@ More details on how students are graded for this can be found in the assignment 
 
 The grading rubric, which is the same for all challenges, is included below:
 
-| Proficiency Level  | Points Awarded | Grade |
+| Proficiency Level | Points Awarded | Grade |
 | ------------- | ------------- | ------------ |
 | **Not Yet**: You have not correctly completed any of the elements of this challenge component. | 0 | 50% |
 | **Approaching Proficiency**: You have correctly completed at least one element of this challenge component. | 10 | 60% |
@@ -167,12 +167,12 @@ This was a very easy challenge for most students to complete; below you can see 
 
 This can be one of the trickier challenges to complete depending on how you do it. It requires students to design the rover such that it can push a 3cm x 4cm x 5cm box through an increasingly smaller opening. The first opening is 13cm wide, the second is 9cm wide, and the last is 5cm wide. It must go all the way through and push the box over the edge on the smaller side of the challenge field. Depending on how far you make it, you will be awarded a different number of points, as shown below.
 
-| Distance from Target  | Points Awarded |
+| Distance Traveled | Points Awarded |
 | ------------- | ------------- |
-| Not Attempted  | 0  |
-| <15cm  | 20  |
-| 15-30cm  | 15  |
-| >30cm  | 5  |
+| Not Attempted  | 0 |
+| <15cm  | 20 |
+| 15-30cm  | 15 |
+| >30cm  | 5 |
 
 **Physics Component**
 
@@ -185,7 +185,7 @@ More details on how students are graded for this can be found in the assignment 
 
 The grading rubric, which is the same for all challenges, is included below:
 
-| Proficiency Level  | Points Awarded | Grade |
+| Proficiency Level | Points Awarded | Grade |
 | ------------- | ------------- | ------------ |
 | **Not Yet**: You have not correctly completed any of the elements of this challenge component. | 0 | 50% |
 | **Approaching Proficiency**: You have correctly completed at least one element of this challenge component. | 10 | 60% |
@@ -204,29 +204,28 @@ For this challenge, you can see below how a team of students was able to complet
 
 **Engineering Component**
 
-For this challenge, students are tasked with pushing a lava rock from one end of the field to the other. Points are determined based on accuracy to the target location as shown below:
+This is the one challenge that very few students have attempted and none have succeeded as of writing this. It requires for the rover to be dropped from a height of approximately .75 meters and subsequently navigate to a target location. Points are awarded based on accuracy of the location to the target as shown below.
 
-| Distance from Target  | Points Awarded |
+| Distance from Target | Points Awarded |
 | ------------- | ------------- |
-| Not Attempted  | 0  |
-| <2cm  | 20  |
-| <4cm  | 15  |
-| <6cm  | 5  |
+| Not Attempted  | 0 |
+| <2cm  | 20 |
+| <4cm  | 15 |
+| <6cm  | 5 |
 
 **Physics Component**
 
-This challenge requires students to be familiar with kinematics (as well as forces) concepts and coding in micropython, as they will be required to:
+This challenge requires students to be familiar with energy and law of conservation of energy concepts and coding in micropython, as they will be required to:
 
-* Program their rover so that it has constant acceleration
-* Use a kinematic equation to determine the push and net accelerations of their rover
-* Create force diagrams for the lava rock
-* Determine force of friction on the lava rock
+* Calculate gravitational potential energy and kinetic energy
+* Determine how much energy the rover system would need to absorb
+* Answer questions about energy
 
-More details on how students are graded for this can be found in the assignment itself, which is under Documents in Challenge 1: Hercules's Push folder. The document is listed as docx and PDF files.
+More details on how students are graded for this can be found in the assignment itself, which is under Documents in Challenge 3: A Rocky Landing folder. The document is listed as docx and PDF files.
 
 The grading rubric, which is the same for all challenges, is included below:
 
-| Proficiency Level  | Points Awarded | Grade |
+| Proficiency Level | Points Awarded | Grade |
 | ------------- | ------------- | ------------ |
 | **Not Yet**: You have not correctly completed any of the elements of this challenge component. | 0 | 50% |
 | **Approaching Proficiency**: You have correctly completed at least one element of this challenge component. | 10 | 60% |
@@ -243,29 +242,31 @@ At time of writing, there has yet to be a team to complete this challenge. It is
 
 **Engineering Component**
 
-For this challenge, students are tasked with pushing a lava rock from one end of the field to the other. Points are determined based on accuracy to the target location as shown below:
+This challenge is different than the previous challenges because points are awarded based on the completion of certain tasks, rather than accuracy. Specifically, students are required to navigate a maze and will only receive points if they complete the maze. They will receive additional points if they have their rover pass through "Bonus" sections. Below is a breakdown of the number of points per task.
 
-| Distance from Target  | Points Awarded |
+| Task | Points Awarded |
 | ------------- | ------------- |
-| Not Attempted  | 0  |
-| <2cm  | 20  |
-| <4cm  | 15  |
-| <6cm  | 5  |
+| Not Attempted  | 0 |
+| Maze Completion  | 30 |
+| Bonus 1  | 15 |
+| Bonus 2  | 15 |
+
+Please note that this means, based on the engineering component alone, students can earn up to 60 points, much greater than the previous challenges's engineering components.
 
 **Physics Component**
 
-This challenge requires students to be familiar with kinematics (as well as forces) concepts and coding in micropython, as they will be required to:
+This challenge requires students to be familiar with kinematics concepts and coding in micropython, as they will be required to:
 
-* Program their rover so that it has constant acceleration
-* Use a kinematic equation to determine the push and net accelerations of their rover
-* Create force diagrams for the lava rock
-* Determine force of friction on the lava rock
+* Determine the total distance traveled by their rover
+* Determine the average speed of their rover
+* Determine the displacement of their rover
+* Determine the average velocity of their rover
 
-More details on how students are graded for this can be found in the assignment itself, which is under Documents in Challenge 1: Hercules's Push folder. The document is listed as docx and PDF files.
+More details on how students are graded for this can be found in the assignment itself, which is under Documents in Challenge 4: A Way Out folder. The document is listed as docx and PDF files.
 
 The grading rubric, which is the same for all challenges, is included below:
 
-| Proficiency Level  | Points Awarded | Grade |
+| Proficiency Level | Points Awarded | Grade |
 | ------------- | ------------- | ------------ |
 | **Not Yet**: You have not correctly completed any of the elements of this challenge component. | 0 | 50% |
 | **Approaching Proficiency**: You have correctly completed at least one element of this challenge component. | 10 | 60% |
@@ -275,34 +276,36 @@ The grading rubric, which is the same for all challenges, is included below:
 
 **Student Example**
 
-Below you can see how a group of students was able to complete this challenge. Specifically coding to achieve this is not included because writing the code is part of the challenge.
+Below you can see how a group of students was able to complete this challenge. Please note that the most difficult element of completing this challenge is the coding, which will require a lot of trial and error.
 
 [VIDEO]
 
-## Challenge 5: Surface Navigation
+## Challenge 5: Surface Navigation with Lunar Rock
 [IMAGE OF CHALLENGE FIELD]
 
 **Engineering Component**
 
-For this challenge, students are tasked with pushing a lava rock from one end of the field to the other. Points are determined based on accuracy to the target location as shown below:
+This challenge requires students to design their rover such that it can navigate from one end of the field to the other. Most rovers are designed in such a way that this is very difficult and a lot of teams design custom wheels to support them in completing this challenge. Like the previous challenge, this challenge's points are awarded based on the completion of certain tasks, which will be shown in the rubric below.
 
-| Distance from Target  | Points Awarded |
+
+| Task | Points Awarded |
 | ------------- | ------------- |
-| Not Attempted  | 0  |
-| <2cm  | 20  |
-| <4cm  | 15  |
-| <6cm  | 5  |
+| Not Attempted  | 0 |
+| Navigate to End  | 30 |
+| Carry 1 Large Lunar Rock  | 15 |
+| Carry 1 Large Lunar Rock  | 15 |
+
+As noted in the previous challenge, this means that a team can earn up to 60 points for navigating from one end to another and carrying two lunar rocks (which are really just the lava rocks from the materials section of the arena).
 
 **Physics Component**
 
-This challenge requires students to be familiar with kinematics (as well as forces) concepts and coding in micropython, as they will be required to:
+This challenge requires students to be familiar with kinematics concepts and coding in micropython, as they will be required to:
 
-* Program their rover so that it has constant acceleration
-* Use a kinematic equation to determine the push and net accelerations of their rover
-* Create force diagrams for the lava rock
-* Determine force of friction on the lava rock
+* Determine the displacement of their rover
+* Determine the average velocity of their rover
+* Determine the acceleration of their rover
 
-More details on how students are graded for this can be found in the assignment itself, which is under Documents in Challenge 1: Hercules's Push folder. The document is listed as docx and PDF files.
+More details on how students are graded for this can be found in the assignment itself, which is under Documents in Challenge 5: Surface Navigation with Lunar Rock folder. The document is listed as docx and PDF files.
 
 The grading rubric, which is the same for all challenges, is included below:
 
@@ -316,6 +319,9 @@ The grading rubric, which is the same for all challenges, is included below:
 
 **Student Example**
 
+Below you will find a video of how a team completed the engineering component of this challenge.
+
+[VIDEO]
 
 ## Challenge 6: Welcome to Seattle
 [IMAGE OF CHALLENGE FIELD]
