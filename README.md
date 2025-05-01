@@ -365,23 +365,21 @@ As of yet, there has not been a single team who has completed this challenge, th
 
 **Engineering Component**
 
-For this challenge, students are tasked with pushing a lava rock from one end of the field to the other. Points are determined based on accuracy to the target location as shown below:
+This challenge is a sister challenge to the previous in that it is using the same arena, but instead of going up the incline, you are going down the incline. The trick here is ensuring that your rover does not slip and fall as it is going down. Points will also be awarded in a similar way, but it is distance from the top to the bottom; see the rubric below for the breakdown and specifics.
 
-| Distance from Target  | Points Awarded |
+| Distance Traveled | Points Awarded |
 | ------------- | ------------- |
-| Not Attempted  | 0  |
-| <2cm  | 20  |
-| <4cm  | 15  |
-| <6cm  | 5  |
+| Not Attempted  | 0 |
+| <15cm  | 20 |
+| 15-30cm  | 15 |
+| >30cm  | 5 |
 
 **Physics Component**
 
-This challenge requires students to be familiar with kinematics (as well as forces) concepts and coding in micropython, as they will be required to:
+Like the previous challenge, students will need to be familiar with forces primarily because this challenge will require them to:
 
-* Program their rover so that it has constant acceleration
-* Use a kinematic equation to determine the push and net accelerations of their rover
-* Create force diagrams for the lava rock
-* Determine force of friction on the lava rock
+* Determine the value of the friction force on your rover on an incline plane
+* Determine the work done by friction
 
 More details on how students are graded for this can be found in the assignment itself, which is under Documents in Challenge 1: Hercules's Push folder. The document is listed as docx and PDF files.
 
@@ -396,6 +394,10 @@ The grading rubric, which is the same for all challenges, is included below:
 | **Exceeding Proficiency**: You have additionally and correctly completed the independent element of this challenge component.  | 40 | 100% |
 
 **Student Example**
+
+Below is an example of a team who were able to complete this challenge.
+
+[VIDEO]
 
 ## Challenge 8: Giving a Gift
 [IMAGE OF CHALLENGE FIELD]
