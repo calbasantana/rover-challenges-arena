@@ -80,10 +80,10 @@ Luckily, it is much quicker to fully cut all parts that need to be laser cut for
 #### Lasercutter
 XTool D1 Pro
 
-## Software
+#### Software
 XTool Creative Studio (XCS)
 
-### Settings (for cutting)
+#### Settings (for cutting)
 Power (%): 100 \
 Speed (mm/s): 4 \
 Pass: 3
