@@ -119,19 +119,6 @@ This part is the most relevant for students as it relates to what each challenge
 
 A complete description of each challenge will be found below. Please note that the maximum number of points possible is 800, but teams average around 100-200 historically.
 
-**Challenges**
-
-[Challenge 1: Hercules's Push](#challenge) \
-Challenge 2: How Far? \
-Challenge 3: A Rocky Landing \
-Challenge 4: A Way Out \
-Challenge 5: Surface Navigation \
-Challenge 6: Welcome to Seattle \
-Challenge 7: Down the Canyon \
-Challenge 8: Giving a Gift \
-Challenge 9: SUMO \
-Challenge 10: Resupply Mission
-
 ## Challenge 1: Hercules's Push
 [IMAGE of CHALLENGE FIELD]
 
@@ -178,25 +165,23 @@ This was a very easy challenge for most students to complete; below you can see 
 
 **Engineering Component**
 
-For this challenge, students are tasked with pushing a lava rock from one end of the field to the other. Points are determined based on accuracy to the target location as shown below:
+This can be one of the trickier challenges to complete depending on how you do it. It requires students to design the rover such that it can push a 3cm x 4cm x 5cm box through an increasingly smaller opening. The first opening is 13cm wide, the second is 9cm wide, and the last is 5cm wide. It must go all the way through and push the box over the edge on the smaller side of the challenge field. Depending on how far you make it, you will be awarded a different number of points, as shown below.
 
 | Distance from Target  | Points Awarded |
 | ------------- | ------------- |
 | Not Attempted  | 0  |
-| <2cm  | 20  |
-| <4cm  | 15  |
-| <6cm  | 5  |
+| <15cm  | 20  |
+| 15-30cm  | 15  |
+| >30cm  | 5  |
 
 **Physics Component**
 
-This challenge requires students to be familiar with kinematics (as well as forces) concepts and coding in micropython, as they will be required to:
+This challenge requires students to be familiar with forces concepts and coding in micropython, as they will be required to:
 
-* Program their rover so that it has constant acceleration
-* Use a kinematic equation to determine the push and net accelerations of their rover
-* Create force diagrams for the lava rock
-* Determine force of friction on the lava rock
+* Determine coefficient of friction between their rover material and challenge-specific materials
+* Answer questions about friction
 
-More details on how students are graded for this can be found in the assignment itself, which is under Documents in Challenge 1: Hercules's Push folder. The document is listed as docx and PDF files.
+More details on how students are graded for this can be found in the assignment itself, which is under Documents in Challenge 2: How Far? folder. The document is listed as docx and PDF files.
 
 The grading rubric, which is the same for all challenges, is included below:
 
@@ -210,7 +195,7 @@ The grading rubric, which is the same for all challenges, is included below:
 
 **Student Example**
 
-For this challenge, you can see below how a team of students was able to complete it.
+For this challenge, you can see below how a team of students was able to complete it. However, please note that students will no longer be allowed to use an additional field to extend the length and reach of their attachments.
 
 [VIDEO]
 
