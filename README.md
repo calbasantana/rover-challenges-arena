@@ -55,26 +55,26 @@ The fully completed CAD model is included above. It is important to note that th
 
 ## 3D-Printed Parts
 
-All parts that are to be 3D printed can be found inside the folder for each challenge as a folder called "3D Prints."
+All parts that need to be 3D printed will be inside folders called "3D Prints", which will be inside each of the challenges folder.
 
-### Specifications & Material(s)
-Below you can find the printer and material used.
+### 3D Printing Process
+
+The 3D printing process is quite lengthy given the large number of parts. However, expect around ~3 weeks of continuous printing to print all parts necessary for this project. The material used was included the previous materials section (True Red PLA from ELEGOO). Below you will find more information regarding the printer and settings used.
+
 #### 3D Printer
- Original Prusa Mini+
-#### Material(s)
 
-INLAND Gray High Speed PLA+ Filament - Fast Printing PLA Plus 3D Filament - 1.75mm Diameter, 1kg - Up to 500mm/s Speed, +/- 0.03mm Accuracy – this can be purchased for $26.99 at the following link: https://www.amazon.com/Micro-Center-Inland-Speed-Filament/dp/B0CTR6SXBD/ref=sr_1_6?crid=H4IWIMNXWFRT&dib=eyJ2IjoiMSJ9.jtzsQdU9hAW9WIzOWiyxAqICr91-2fQVZ9EQpZWIG4SBrGzYr7FREh8bUfA3acn1zP3vvVKpC8uLxSKBH9JE0HHudVS3HINPevgjVAZVgYIbEsgnJ9ZyC64X1p4K32tjXyAE4IHNDNj2sIY7LmhELL02-moDEuSCAbwnSzO5oJnNK9t48X6rlhvanYOWVFytZSnMcczt51IKkxxIr_6XduEr7_bX1-8svJma0PtqOIs.ggUIwKYRNYpFMNCBx8On8xgnb6B8GxjVEk3VEckEzrg&dib_tag=se&keywords=inland%2Bgray%2Bpla&qid=1740963816&sprefix=inland%2Bgray%2Bpl%2Caps%2C137&sr=8-6&th=1
+Original Prusa Mini+
 
 #### Software
- PrusaSlicer
- 
-![image](https://github.com/user-attachments/assets/16f9d201-4cf2-425c-83e7-7f85e8d8aec7)
+
+PrusaSlicer
 
 #### Settings
-  Layer Height: .2mm \
-  Infill: 100% \
-  Supports: Everywhere \
-  Estimated Printing Time: 5 hours and 48 minutes.
+
+Layer Height: .2mm \
+Infill: 50% \
+Supports: Everywhere \
+Estimated Printing Time: ~ 3 weeks.
 
 ## Lasercut Parts
 
