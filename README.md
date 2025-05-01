@@ -51,7 +51,11 @@ I decided to use spray paint for the stencils, although in retrospect, it may ha
 
 ## CAD Model
 
+The fully completed CAD model is included above. It is important to note that there are over 150 parts to this design, so there will be a lot that needs to be lasercut and 3D printed. It is my largest project as of writing. Nevertheless, I do hope that the organization of the folders will make it easier to manufacture the components for this.
+
 ## 3D-Printed Parts
+
+All parts that are to be 3D printed can be found inside the folder for each challenge as a folder called "3D Prints."
 
 ### Specifications & Material(s)
 Below you can find the printer and material used.
