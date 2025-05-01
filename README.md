@@ -452,7 +452,9 @@ The last time I ran this, only one team decided to attempt the challenge, so thi
 
 **Engineering Component**
 
-For this challenge, students are tasked with pushing a lava rock from one end of the field to the other. Points are determined based on accuracy to the target location as shown below:
+This is probably the most fun and engaging challenge of all; a lot of students choose to compete in this challenge. Much like the previous challenge, it requires a minimum of three teams; if two or fewer sign up, those who sign up will receive points as if they won second place.
+
+For this challenge, the team's rover is required to push the opposing team's rover out of a ring. A team loses when they either get "stuck" on a part of the ring or their rear wheels go outside of the circle. It does not matter what happens after. For a breakdown of points, see the table below.
 
 | Placement | Points Awarded |
 | ------------- | ------------- |
@@ -463,12 +465,11 @@ For this challenge, students are tasked with pushing a lava rock from one end of
 
 **Physics Component**
 
-This challenge requires students to be familiar with kinematics (as well as forces) concepts and coding in micropython, as they will be required to:
+This challenge requires students to be familiar with forces primarily, as they will be required to:
 
-* Program their rover so that it has constant acceleration
-* Use a kinematic equation to determine the push and net accelerations of their rover
-* Create force diagrams for the lava rock
-* Determine force of friction on the lava rock
+* Collaborate with an opposing team to create a force diagram of your rover and the forces it experiences
+* Determine how long it should take to win or lose
+* Reflect on accuracy of your calculations
 
 More details on how students are graded for this can be found in the assignment itself, which is under Documents in Challenge 1: Hercules's Push folder. The document is listed as docx and PDF files.
 
@@ -483,6 +484,10 @@ The grading rubric, which is the same for all challenges, is included below:
 | **Exceeding Proficiency**: You have additionally and correctly completed the independent element of this challenge component.  | 40 | 100% |
 
 **Student Example**
+
+Below you will see one of many videos I have of students competing in this challenge.
+
+[VIDEO]
 
 ## Challenge 10: Resupply Mission
 [IMAGE OF CHALLENGE FIELD]
