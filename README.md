@@ -19,6 +19,7 @@ The Challenges Arena was constructed with the aid of a lasercutter, 3D printer, 
 * [4 Sets of 8-Pack 12" x 16" x 1/8" Walnut Plywood Sheets ($32.99 each, or $131.96 total)](https://www.amazon.com/ROBOTIME-16-Pack-Walnut-Plywood-Sheets/dp/B0D4QWKYR7/ref=sr_1_5?crid=5N28N9MA546C&dib=eyJ2IjoiMSJ9.k-VTc77EEiA7iWVr4SBXFp1fa-s328xiTw0COCg3Xb3MTlrC8jpyruFXeUAeiiCiWeqd_bGG2jZyUaQwydheF_9vHEUdJ36aQLL7ZHE5pD8w4FC9Gp49ls-iut2qMNPMHNQ82mpEpoqCAWkl8qQQYMF5L2UaZzDGzs6tHkzidyan0-cBc8F1ldLTGhLnjbjEgGYdoTjovSiQekXt7Qi3dmsm8Edp9dEApYT0CpZSLDZV_hyY13bmmnv_ypCVnFxkAoH8YGcZmUlBg8sBuiU4P-10BCj7j6n8NnpZB6GvpBw.S8gtR7mVVgHNEFjv2BN-OQO5X2sNbt_du2D0Gg0-LNU&dib_tag=se&keywords=robotime%2B8%2Bpack%2Bwalnut%2Bplywood%2Bsheets%2B12%2Bx%2B16&qid=1746033927&sprefix=robotime%2B8%2Bpack%2Bwalnut%2Bplywood%2Bsheets%2B12%2Bx%2B16%2Caps%2C70&sr=8-5&th=1)
 * [4 True Red ELEGOO 1kg, 1.75mm Filament ($17.99 each, or $71.96 total)](https://www.amazon.com/ELEGOO-Filament-Dimensional-Accuracy-Printers/dp/B0D41ZDXLR/ref=sr_1_1?crid=3BS4C2RM2EG8F&dib=eyJ2IjoiMSJ9.LWlVKzdNeCOZo0I-wyHF_UTSyS8JaV-eyEOTPtIpIZnYXwuIC_LtQ6uuXx9Gr9xC_Z0Dpcd3vYcVLoHqFD374ZG-1_G780SoV1QQSzzXZrNI5T0TTnsGUZZe6-O3yylNy5aO6YxgZNrdJx2Gyq4BP6Su3Cydrqe9pcr8wk4LCFqOpW2PMHjzxGbzq3abuKTxR_TN9D_E3mUWMIInbKA-D1PJelTdgzylkb7eFig9Z8s.Laa-8yK_IG5D-_V9WqQaYk14CLfttdybrywajYEh0JA&dib_tag=se&keywords=elegoo%2Btrue%2Bred%2Bpla&qid=1746034186&sprefix=elegoo%2Btrue%2Bred%2Bpla%2Caps%2C86&sr=8-1&th=1)
 * [3 PureBond 4' x 4' Walnut Plywood Project Panels ($86.99 each, or $260.67 total)](https://www.homedepot.com/p/Columbia-Forest-Products-1-4-in-x-4-ft-x-4-ft-PureBond-Walnut-Plywood-Project-Panel-Free-Custom-Cut-Available-2328/204635499)
+* [1/8" 11" x 17" Corrugated Cardboard Sheets ($29.99)](https://www.amazon.com/Golden-State-Art-Corrugated-Cardboard/dp/B09KYGZX8F/ref=sr_1_3?dib=eyJ2IjoiMSJ9.E4xaFRq29VRZri9pgzVKAsJ-5qwPRbNKBYJJiDwKSJ6Bcmw_zdYhFRiraN00F_bLcvGf8dRthMTTt0PkU4hgbVfxZ76kLezMqbrmLVV26Tl7p4Q54h3z9fytB-Ow8n8s0v7L9icia3tab5Esg6aTkhw-SvR3bHhoFHqSDdQ2QGgdj11QgIzbgqMD_RobISqR6jae9lMT8k6rFgSFr_0iM8ES_WGKzELzP4P0EfJrApk.vvUeuAFoeoMg01627vd3Mmu3Adrrkswk8497Bj_legc&dib_tag=se&keywords=Golden%2BState%2BArt%2C%2B50%2Bpack%2B11x17%2BCorrugated%2BCardboard%2BSheets%2BCardboard%2BInserts%2BFlat%2BCardboard%2BLayer%2BPads%2Bfor%2BPacking%2C%2BMailing%2Bor%2BArt%2BCrafts%2B(1%2F8%22%2BThick%2C%2BBrown)&qid=1746060551&sr=8-3&th=1)
 * [3 Sets of Double-Sided 1" x 4" Double-Sided Adhesive Strip ($11.39 each, or $34.17 total)](https://www.amazon.com/Art3d-Sticky-Double-Sided-Command-Adhesive/dp/B0B58FKYR2/ref=sr_1_1?crid=22B481I3SFL6R&dib=eyJ2IjoiMSJ9.A2B6OT_LOvZXohm-BlbceYOcshjdus2IDo5k_h1wy8-cEOHCXbbANRf86B_nS6EVq4EoobkUJbMZQd32VG3bDD5A49QHKAI-VQIR7RUbW3XWLG98o0L54LONU7K1yxlXf8c3es9p_BydkzHjl_lKdw.d25SE_JEw66mBVhbVdr_95c5hoTpxGL0F_RMJ-2SvRo&dib_tag=se&keywords=art3d%2B40%2Bsets%2Bhook&qid=1746033877&sprefix=art3d%2B40%2Bsets%2Bhook%2Caps%2C80&sr=8-1&th=1)
 * [Braided Rope ($9.99)](https://www.amazon.com/MaxxHaul-50227-Strength-Sunlight-Resistant-Multicolor/dp/B07X64Z69L/ref=sr_1_1?crid=2B23R4N5A2BX8&dib=eyJ2IjoiMSJ9.vX42Ucwmw4k0bD5FDlHEoYoZ1eOJe3dpnWChK3ya16vBR6mXtR0iEoQtrr280W5rxZje9oe-2tDafWHfKAmmX29tTzUf3edLibGl1Oe-Nrhzq-03ek-61rh2IldE9l22u6StnLa9bX5viGIRuAySAdo2TYzv4lBuIG1Dvl3RKiVqlJKpWu668c0G8IeU9q8C.Eg5nECh_pmGK6JNrQ-JtpWu6llSGSfZgjDYm4Y7K-kM&dib_tag=se&keywords=maxxhaul%2B50227&qid=1746033619&sprefix=maxxhaul%2B50227%2Caps%2C93&sr=8-1&th=1)
 * [2 Triangle Shelf Brackets ($9.49)](https://www.amazon.com/Dewell-Triangle-Brackets-Mounted-Supports/dp/B07QLK6PWS/ref=sr_1_5?crid=YEVDP2NLS14D&dib=eyJ2IjoiMSJ9.mD8NFGLjEl_Ew-2HTP1eDbLqgqMKLC9IvO6CuOn-fwEfRfk5x3rQ_5cWb3hpmZ3jvYcyyHJylOhzYPvnqqkSGKlc2IC09MW2F0YGaAlDDVQR48LqzwzBc-O_qaMosoYeTF8Y7OUFtbdcV_yizJEu2ZaxPUqsztRnCKrZWY2Vo4NHhBFQFuSHTPqvb3X9Z8JXQjFqCRZ6qYQJtxSA6MWXTiSjNSjlj3MvDjPNSzt8NPLy7o74yaKyep7O4pfCb6bhiOXQ2iOse2Fi3bK5UARF3tEqIfUCytR-OoZ77Ga6hkw.1tmzoMcrdr8rDU49Leq5dS9wHz987PSkPxzHXIsKmU0&dib_tag=se&keywords=2%2Bpcs%2B8inch%2Btripod%2Btriangle%2Bshelf%2Bbrackets%2C%2Bwall%2Bmounted%2Bshelf%2Bsupports%2Bblack%2C%2Bbt200&qid=1746033457&sprefix=2%2Bpcs%2B8inch%2Btripod%2Btriangle%2Bshelf%2Bbrackets%2C%2Bwall%2Bmounted%2Bshelf%2Bsupports%2Bblack%2C%2Bbt200%2Caps%2C76&sr=8-5&th=1)
@@ -53,7 +54,7 @@ I decided to use spray paint for the stencils, although in retrospect, it may ha
 The fully completed CAD model is included above. It is important to note that there are over 150 parts to this design, so there will be a lot that needs to be lasercut and 3D printed. It is my largest project as of writing. Nevertheless, I do hope that the organization of the folders will make it easier to manufacture the components for this.
 
 ## 3D-Printed Parts
-All parts that need to be 3D printed will be inside folders called "3D Prints", which will be inside each of the challenges folder.
+All parts that need to be 3D printed will be inside folders called "3D Prints", which will be inside each of the challenge's main folder.
 
 ### 3D Printing Process
 The 3D printing process is quite lengthy given the large number of parts. However, expect around ~3 weeks of continuous printing to print all parts necessary for this project. The material used was included the previous materials section (True Red PLA from ELEGOO). Below you will find more information regarding the printer and settings used.
@@ -70,23 +71,23 @@ Infill: 50% \
 Supports: Everywhere \
 Estimated Printing Time: ~ 3 weeks.
 
-## Lasercut Parts
+## Laser Cut Parts
+For the laser cut parts, which can be found in two separate folders -- "Laser Cuts" for parts that will be cut from the walnut sheets and "Stencils" for those that will be cut from the cardboard sheets -- are inside each of the challenge's main folder.
 
-### Specifications & Material(s)
-Below are the specifications for the lasercut parts.
+### Laser Cutting Process
+Luckily, it is much quicker to fully cut all parts that need to be laser cut for this challenges arena.
+
 #### Lasercutter
- XTool D1 Pro
-#### Material(s)
+XTool D1 Pro
 
-ROBOTIME 8-Pack Walnut Plywood Sheets - 12 x 16 x 1/8 Inch - 3mm Plywood for Laser Cutting, Engraving & Wood Burning (Pyrography) - Unfinished Wood for Crafts  – these can be purchased directly from XTool for $39.99 at the following link: https://www.amazon.com/gp/product/B0D4QWKYR7/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1
-
-DIYMAG 120Pcs Refrigerator Magnets 10x2mm Premium Brushed Nickel Small Round Cylinder Fridge Magnet, Perfect to use as Office Magnets, Dry Erase Board Magnetic pins, Whiteboard, Map Pins - this can be purchased for $12.99 at the following link: https://www.amazon.com/DIYMAG-Refrigerator-Magnets-100-piece/dp/B0753ZPBLQ/ref=sr_1_19?crid=4S38QACW5AEP&dib=eyJ2IjoiMSJ9.EYtZ7hOWoiRCrhWwwsVJrzaAfrfRynJzx0wpiY7EsDZ_R-bKmqQ46Kr_FJ605BzEmuvGgxXUmGzYITG6lXI-Y-QS1oPBC3tEEx4AuWbXIllhps4bsrN73sPxXvwDwjxnnNoBRcNRsZD0FSY8oCu01ctJIgLgNL79HUSnNnuCjsskJ3paOzRH5ifOJrdhgmuFKdXm3msnuZGOTHAOwH48ZJCPbHj7LhqKhDLUPQbLvsc.g_VQ_G2BEWRtxm6rLwTTMmpZn3GpH8QrYflAKJWOVWI&dib_tag=se&keywords=10%2Bmm%2Bmagnets&qid=1736535291&sprefix=10%2Bmm%2Bmagnet%2Caps%2C88&sr=8-19&th=1
 ## Software
- XTool Creative Studio (XCS)
- ### Settings (for cutting)
-  Power (%): 100 \
-  Speed (mm/s): 4 \
-  Pass: 3
+XTool Creative Studio (XCS)
+
+### Settings (for cutting)
+Power (%): 100 \
+Speed (mm/s): 4 \
+Pass: 3
+
 ## Stencils and Spray Painting
 
 # Challenges Overview
