@@ -129,12 +129,25 @@ For this challenge, students are tasked with pushing a lava rock from one end of
 
 **Physics Component**
 
-This challenge requires students to be familiar with kinematics and coding in micropython, as they will be required to:
+This challenge requires students to be familiar with kinematics (as well as forces) concepts and coding in micropython, as they will be required to:
 
 * Program their rover so that it has constant acceleration
 * Use a kinematic equation to determine the push and net accelerations of their rover
 * Create force diagrams for the lava rock
 * Determine force of friction on the lava rock
+
+More details on how students are graded for this can be found in the assignment itself, which is under Documents in Challenge 1: Hercules's Push folder. The document is listed both as a docx and a PDF.
+
+The grading rubric, which is the same for all challenges, is included below:
+
+| Proficiency Level  | Points Awarded |
+| ------------- | ------------- |
+| **Not Yet**: You have not correctly completed any of the elements of this challenge component.
+  | 0  |
+| **Approaching Proficiency**: You have correctly completed at least one element of this challenge component.
+  | 20  |
+| <4cm  | 15  |
+| <6cm  | 5  |
 
 **Student Example**
 
