@@ -117,6 +117,22 @@ For Challenge 5: Surface Navigation with Lunar Rock, I recommend adding some tap
 # Challenges Overview
 This part is the most relevant for students as it relates to what each challenge is specifically asking, so some students viewing this repository might want to skip to this section. For each challenge, there is an **Engineering Component** and a **Physics Component**. Students will be awarded points based on both the physical completion of the challenge (the former) and the completion of the mini-lab associated with it (the latter).
 
+**IMPORTANT**: Students are required to complete a minimum of two **engineering components** and two **physics components** successfully. This should be done in the following manner, assuming students A, B, C, and D are in a group together.
+
+**Challenge 1**
+
+* Students A and B complete the engineering component together.
+* Students C and D complete the physics component together.
+
+**Challenge 2**
+
+* Students C and D complete the engineering component together.
+* Students A and B complete the physics component together.
+
+Essentially, each pair of students will each complete one engineering component together and one physics component together. Students will receive credit for the engineering component they completed with their primary partner.
+
+
+
 A complete description of each challenge will be found below. Please note that the maximum number of points possible is 800, but teams average around 100-200 historically.
 
 ## Challenge 1: Hercules's Push
@@ -404,7 +420,7 @@ Below is an example of a team who were able to complete this challenge.
 
 **Engineering Component**
 
-This, and the subsequent two challenges, are considered "Competition"-style challenges. This means that students will compete against other teams; for two of these challenges, it will be in real time, but for the last one it will be in timed trials.
+This, and the subsequent two challenges, are considered "competition"-style challenges. This means that students will compete against other teams; for two of these challenges, it will be in real time, but for the last one it will be in timed trials.
 
 For this specific challenge, each team places their rover at either end of the field and they are tasked with pushing a flag of the opposing team into the opposing team's base. Essentially, students are tasked with returning flags to the opposing team or -- as the name suggests -- giving them a gift.
 
@@ -494,7 +510,11 @@ Below you will see one of many videos I have of students competing in this chall
 
 **Engineering Component**
 
-For this challenge, students are tasked with pushing a lava rock from one end of the field to the other. Points are determined based on accuracy to the target location as shown below:
+Like the previous two challenges, this last challenge is a "competition"-style challenge. However, what makes this one different than the other two is that it is timed asynchronous trials that will be used to determine placement rather than simultaneous competition.
+
+For this challenge, students are required to have their rover push a box to an endpoint. This endpoint is considered the delivery point. However, students cannot go onto red-colored paint, so they must navigate around to reach the endpoint. The less time it takes for a team to do this, the better; the team with the shortest time to complete this task will receive first place.
+
+However, as noted before, if two or fewer teams sign up for this challenge, then those who complete the challenge will automatically receive points that those who would receive second place in a competition would receive. If three or more teams sign up for this challenge, the points awarded will be the same as the previous competitions (shown below), based on placement.
 
 | Placement | Points Awarded |
 | ------------- | ------------- |
@@ -505,12 +525,12 @@ For this challenge, students are tasked with pushing a lava rock from one end of
 
 **Physics Component**
 
-This challenge requires students to be familiar with kinematics (as well as forces) concepts and coding in micropython, as they will be required to:
+This challenge requires students to be familiar with kinematics (as well as forces)concepts and coding in micropython, as they will be required to:
 
-* Program their rover so that it has constant acceleration
-* Use a kinematic equation to determine the push and net accelerations of their rover
-* Create force diagrams for the lava rock
-* Determine force of friction on the lava rock
+* Create constant acceleration program
+* Create a force diagram for the supply box
+* Determine the coefficient of friction of the supply box on the given surface
+* Determine how long it should take to move the box to the desired location, based on net force
 
 More details on how students are graded for this can be found in the assignment itself, which is under Documents in Challenge 1: Hercules's Push folder. The document is listed as docx and PDF files.
 
@@ -526,4 +546,20 @@ The grading rubric, which is the same for all challenges, is included below:
 
 **Student Example**
 
+In the previous year, only one team signed up to complete this challenge and they were able to complete it successfully. Here is the video from that team.
+
+[VIDEO]
+
 # Tips
+
+There is a lot that can be improved regarding these challenges in terms of their physics content, engineering content, and especially the arena itself. Here are some tips that might be helpful.
+
+**Building of the Rover Challenges Arena**
+
+* You can use any type of velcro adhesive, even those that come in big packets and you cut up. It might be cheaper than buying the 1" x 4" strips.
+* You do not need as many large lava rocks as I have on the materials list, but they are good in case you want to build something else.
+
+**Challenges**
+
+* Students are encouraged to seek innovative solutions, but it's also OK to rely on the success of previous teams.
+* It is generally recommended to pair up challenges such that it is easier to complete and concepts are similar.
