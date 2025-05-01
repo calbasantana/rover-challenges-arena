@@ -91,9 +91,12 @@ Pass: 3
 ## Hand Sawn Parts
 The last set of parts are those that need to be sawn. I purchased the large walnut sheets from Home Depot (HD) and got someone to saw them for me. For the small parts, I used a hand saw. Below are the dimensions required:
 
-* 1 1" x 1"
-* 2 5" x 5"
-* 3 10" x 10"
+* 1 44" x 40"
+* 1 44" x 20"
+* 1 44" x 10"
+* 2 38" x 18.5"
+* 2 24" x 20"
+* 1 20" x 10"
 
 Once you have finished these parts, you will be ready to use the stencils and spray paint.
 
