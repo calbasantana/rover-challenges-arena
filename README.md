@@ -51,6 +51,9 @@ I decided to use spray paint for the stencils, although in retrospect, it may ha
 * [3M Professional Paint Spray Respirator Medium ($48.98)](https://www.homedepot.com/p/3M-Professional-Paint-Spray-Respirator-Medium-7512PA1-A-PS/202077812)
 
 ## CAD Model
+
+[IMAGE OF CAD MODEL]
+
 The fully completed CAD model is included above. It is important to note that there are over 150 parts to this design, so there will be a lot that needs to be lasercut and 3D printed. It is my largest project as of writing. Nevertheless, I do hope that the organization of the folders will make it easier to manufacture the components for this.
 
 ## 3D-Printed Parts
@@ -101,6 +104,9 @@ The last set of parts are those that need to be sawn. I purchased the large waln
 Once you have finished these parts, you will be ready to use the stencils and spray paint.
 
 ## Stencils and Spray Painting
+
+[SPRAY PAINT IMAGE]
+
 For spray painting, I went outside on a nice cool day and began color coding things. You might do things differently, but you can tell from the pictures of the challenges how I decided to color things. In retrospect, as I mentioned before, I think I should have opted for acrylic paint because some of the spray paint didn't stick too well or bled out too much into the wood grain.
 
 ## Assembly
@@ -136,7 +142,48 @@ This challenge requires students to be familiar with kinematics (as well as forc
 * Create force diagrams for the lava rock
 * Determine force of friction on the lava rock
 
-More details on how students are graded for this can be found in the assignment itself, which is under Documents in Challenge 1: Hercules's Push folder. The document is listed both as a docx and a PDF.
+More details on how students are graded for this can be found in the assignment itself, which is under Documents in Challenge 1: Hercules's Push folder. The document is listed as docx and PDF files.
+
+The grading rubric, which is the same for all challenges, is included below:
+
+| Proficiency Level  | Points Awarded | Grade |
+| ------------- | ------------- | ------------ |
+| **Not Yet**: You have not correctly completed any of the elements of this challenge component. | 0 | 50% |
+| **Approaching Proficiency**: You have correctly completed at least one element of this challenge component. | 10 | 60% |
+| **Somewhat Proficient**: You have correctly completed half of the elements of this challenge component. | 20 | 70% |
+| **Proficient**: You have correctly completed all of the elements of this challenge component. | 30 | 85% |
+| **Exceeding Proficiency**: You have additionally and correctly completed the independent element of this challenge component.  | 40 | 100% |
+
+**Student Example**
+
+This was a very easy challenge for most students to complete; below you can see an example from a team who completed it.
+
+[VIDEO]
+
+## Challenge 2: How Far?
+[IMAGE OF CHALLENGE FIELD]
+
+**Engineering Component**
+
+For this challenge, students are tasked with pushing a lava rock from one end of the field to the other. Points are determined based on accuracy to the target location as shown below:
+
+| Distance from Target  | Points Awarded |
+| ------------- | ------------- |
+| Not Attempted  | 0  |
+| <2cm  | 20  |
+| <4cm  | 15  |
+| <6cm  | 5  |
+
+**Physics Component**
+
+This challenge requires students to be familiar with kinematics (as well as forces) concepts and coding in micropython, as they will be required to:
+
+* Program their rover so that it has constant acceleration
+* Use a kinematic equation to determine the push and net accelerations of their rover
+* Create force diagrams for the lava rock
+* Determine force of friction on the lava rock
+
+More details on how students are graded for this can be found in the assignment itself, which is under Documents in Challenge 1: Hercules's Push folder. The document is listed as docx and PDF files.
 
 The grading rubric, which is the same for all challenges, is included below:
 
@@ -154,17 +201,40 @@ For this challenge, you can see below how a team of students was able to complet
 
 [VIDEO]
 
-## Challenge 2: How Far?
-[IMAGE OF CHALLENGE FIELD]
-
-**Student Example**
-
-For this challenge, you can see below how a team of students was able to complete it.
-
-[VIDEO]
-
 ## Challenge 3: A Rocky Landing
 [IMAGE OF CHALLENGE FIELD]
+
+**Engineering Component**
+
+For this challenge, students are tasked with pushing a lava rock from one end of the field to the other. Points are determined based on accuracy to the target location as shown below:
+
+| Distance from Target  | Points Awarded |
+| ------------- | ------------- |
+| Not Attempted  | 0  |
+| <2cm  | 20  |
+| <4cm  | 15  |
+| <6cm  | 5  |
+
+**Physics Component**
+
+This challenge requires students to be familiar with kinematics (as well as forces) concepts and coding in micropython, as they will be required to:
+
+* Program their rover so that it has constant acceleration
+* Use a kinematic equation to determine the push and net accelerations of their rover
+* Create force diagrams for the lava rock
+* Determine force of friction on the lava rock
+
+More details on how students are graded for this can be found in the assignment itself, which is under Documents in Challenge 1: Hercules's Push folder. The document is listed as docx and PDF files.
+
+The grading rubric, which is the same for all challenges, is included below:
+
+| Proficiency Level  | Points Awarded | Grade |
+| ------------- | ------------- | ------------ |
+| **Not Yet**: You have not correctly completed any of the elements of this challenge component. | 0 | 50% |
+| **Approaching Proficiency**: You have correctly completed at least one element of this challenge component. | 10 | 60% |
+| **Somewhat Proficient**: You have correctly completed half of the elements of this challenge component. | 20 | 70% |
+| **Proficient**: You have correctly completed all of the elements of this challenge component. | 30 | 85% |
+| **Exceeding Proficiency**: You have additionally and correctly completed the independent element of this challenge component.  | 40 | 100% |
 
 **Student Example**
 
@@ -172,6 +242,38 @@ At time of writing, there has yet to be a team to complete this challenge. It is
 
 ## Challenge 4: A Way Out
 [IMAGE OF CHALLENGE FIELD]
+
+**Engineering Component**
+
+For this challenge, students are tasked with pushing a lava rock from one end of the field to the other. Points are determined based on accuracy to the target location as shown below:
+
+| Distance from Target  | Points Awarded |
+| ------------- | ------------- |
+| Not Attempted  | 0  |
+| <2cm  | 20  |
+| <4cm  | 15  |
+| <6cm  | 5  |
+
+**Physics Component**
+
+This challenge requires students to be familiar with kinematics (as well as forces) concepts and coding in micropython, as they will be required to:
+
+* Program their rover so that it has constant acceleration
+* Use a kinematic equation to determine the push and net accelerations of their rover
+* Create force diagrams for the lava rock
+* Determine force of friction on the lava rock
+
+More details on how students are graded for this can be found in the assignment itself, which is under Documents in Challenge 1: Hercules's Push folder. The document is listed as docx and PDF files.
+
+The grading rubric, which is the same for all challenges, is included below:
+
+| Proficiency Level  | Points Awarded | Grade |
+| ------------- | ------------- | ------------ |
+| **Not Yet**: You have not correctly completed any of the elements of this challenge component. | 0 | 50% |
+| **Approaching Proficiency**: You have correctly completed at least one element of this challenge component. | 10 | 60% |
+| **Somewhat Proficient**: You have correctly completed half of the elements of this challenge component. | 20 | 70% |
+| **Proficient**: You have correctly completed all of the elements of this challenge component. | 30 | 85% |
+| **Exceeding Proficiency**: You have additionally and correctly completed the independent element of this challenge component.  | 40 | 100% |
 
 **Student Example**
 
@@ -182,27 +284,224 @@ Below you can see how a group of students was able to complete this challenge. S
 ## Challenge 5: Surface Navigation
 [IMAGE OF CHALLENGE FIELD]
 
+**Engineering Component**
+
+For this challenge, students are tasked with pushing a lava rock from one end of the field to the other. Points are determined based on accuracy to the target location as shown below:
+
+| Distance from Target  | Points Awarded |
+| ------------- | ------------- |
+| Not Attempted  | 0  |
+| <2cm  | 20  |
+| <4cm  | 15  |
+| <6cm  | 5  |
+
+**Physics Component**
+
+This challenge requires students to be familiar with kinematics (as well as forces) concepts and coding in micropython, as they will be required to:
+
+* Program their rover so that it has constant acceleration
+* Use a kinematic equation to determine the push and net accelerations of their rover
+* Create force diagrams for the lava rock
+* Determine force of friction on the lava rock
+
+More details on how students are graded for this can be found in the assignment itself, which is under Documents in Challenge 1: Hercules's Push folder. The document is listed as docx and PDF files.
+
+The grading rubric, which is the same for all challenges, is included below:
+
+| Proficiency Level  | Points Awarded | Grade |
+| ------------- | ------------- | ------------ |
+| **Not Yet**: You have not correctly completed any of the elements of this challenge component. | 0 | 50% |
+| **Approaching Proficiency**: You have correctly completed at least one element of this challenge component. | 10 | 60% |
+| **Somewhat Proficient**: You have correctly completed half of the elements of this challenge component. | 20 | 70% |
+| **Proficient**: You have correctly completed all of the elements of this challenge component. | 30 | 85% |
+| **Exceeding Proficiency**: You have additionally and correctly completed the independent element of this challenge component.  | 40 | 100% |
+
 **Student Example**
 
 
 ## Challenge 6: Welcome to Seattle
 [IMAGE OF CHALLENGE FIELD]
 
+**Engineering Component**
+
+For this challenge, students are tasked with pushing a lava rock from one end of the field to the other. Points are determined based on accuracy to the target location as shown below:
+
+| Distance from Target  | Points Awarded |
+| ------------- | ------------- |
+| Not Attempted  | 0  |
+| <2cm  | 20  |
+| <4cm  | 15  |
+| <6cm  | 5  |
+
+**Physics Component**
+
+This challenge requires students to be familiar with kinematics (as well as forces) concepts and coding in micropython, as they will be required to:
+
+* Program their rover so that it has constant acceleration
+* Use a kinematic equation to determine the push and net accelerations of their rover
+* Create force diagrams for the lava rock
+* Determine force of friction on the lava rock
+
+More details on how students are graded for this can be found in the assignment itself, which is under Documents in Challenge 1: Hercules's Push folder. The document is listed as docx and PDF files.
+
+The grading rubric, which is the same for all challenges, is included below:
+
+| Proficiency Level  | Points Awarded | Grade |
+| ------------- | ------------- | ------------ |
+| **Not Yet**: You have not correctly completed any of the elements of this challenge component. | 0 | 50% |
+| **Approaching Proficiency**: You have correctly completed at least one element of this challenge component. | 10 | 60% |
+| **Somewhat Proficient**: You have correctly completed half of the elements of this challenge component. | 20 | 70% |
+| **Proficient**: You have correctly completed all of the elements of this challenge component. | 30 | 85% |
+| **Exceeding Proficiency**: You have additionally and correctly completed the independent element of this challenge component.  | 40 | 100% |
+
+**Student Example**
 
 ## Challenge 7: Down the Canyon
 [IMAGE OF CHALLENGE FIELD]
 
+**Engineering Component**
+
+For this challenge, students are tasked with pushing a lava rock from one end of the field to the other. Points are determined based on accuracy to the target location as shown below:
+
+| Distance from Target  | Points Awarded |
+| ------------- | ------------- |
+| Not Attempted  | 0  |
+| <2cm  | 20  |
+| <4cm  | 15  |
+| <6cm  | 5  |
+
+**Physics Component**
+
+This challenge requires students to be familiar with kinematics (as well as forces) concepts and coding in micropython, as they will be required to:
+
+* Program their rover so that it has constant acceleration
+* Use a kinematic equation to determine the push and net accelerations of their rover
+* Create force diagrams for the lava rock
+* Determine force of friction on the lava rock
+
+More details on how students are graded for this can be found in the assignment itself, which is under Documents in Challenge 1: Hercules's Push folder. The document is listed as docx and PDF files.
+
+The grading rubric, which is the same for all challenges, is included below:
+
+| Proficiency Level  | Points Awarded | Grade |
+| ------------- | ------------- | ------------ |
+| **Not Yet**: You have not correctly completed any of the elements of this challenge component. | 0 | 50% |
+| **Approaching Proficiency**: You have correctly completed at least one element of this challenge component. | 10 | 60% |
+| **Somewhat Proficient**: You have correctly completed half of the elements of this challenge component. | 20 | 70% |
+| **Proficient**: You have correctly completed all of the elements of this challenge component. | 30 | 85% |
+| **Exceeding Proficiency**: You have additionally and correctly completed the independent element of this challenge component.  | 40 | 100% |
+
+**Student Example**
 
 ## Challenge 8: Giving a Gift
 [IMAGE OF CHALLENGE FIELD]
 
+**Engineering Component**
+
+For this challenge, students are tasked with pushing a lava rock from one end of the field to the other. Points are determined based on accuracy to the target location as shown below:
+
+| Distance from Target  | Points Awarded |
+| ------------- | ------------- |
+| Not Attempted  | 0  |
+| <2cm  | 20  |
+| <4cm  | 15  |
+| <6cm  | 5  |
+
+**Physics Component**
+
+This challenge requires students to be familiar with kinematics (as well as forces) concepts and coding in micropython, as they will be required to:
+
+* Program their rover so that it has constant acceleration
+* Use a kinematic equation to determine the push and net accelerations of their rover
+* Create force diagrams for the lava rock
+* Determine force of friction on the lava rock
+
+More details on how students are graded for this can be found in the assignment itself, which is under Documents in Challenge 1: Hercules's Push folder. The document is listed as docx and PDF files.
+
+The grading rubric, which is the same for all challenges, is included below:
+
+| Proficiency Level  | Points Awarded | Grade |
+| ------------- | ------------- | ------------ |
+| **Not Yet**: You have not correctly completed any of the elements of this challenge component. | 0 | 50% |
+| **Approaching Proficiency**: You have correctly completed at least one element of this challenge component. | 10 | 60% |
+| **Somewhat Proficient**: You have correctly completed half of the elements of this challenge component. | 20 | 70% |
+| **Proficient**: You have correctly completed all of the elements of this challenge component. | 30 | 85% |
+| **Exceeding Proficiency**: You have additionally and correctly completed the independent element of this challenge component.  | 40 | 100% |
+
+**Student Example**
 
 ## Challenge 9: SUMO
 [IMAGE OF CHALLENGE FIELD]
 
+**Engineering Component**
+
+For this challenge, students are tasked with pushing a lava rock from one end of the field to the other. Points are determined based on accuracy to the target location as shown below:
+
+| Distance from Target  | Points Awarded |
+| ------------- | ------------- |
+| Not Attempted  | 0  |
+| <2cm  | 20  |
+| <4cm  | 15  |
+| <6cm  | 5  |
+
+**Physics Component**
+
+This challenge requires students to be familiar with kinematics (as well as forces) concepts and coding in micropython, as they will be required to:
+
+* Program their rover so that it has constant acceleration
+* Use a kinematic equation to determine the push and net accelerations of their rover
+* Create force diagrams for the lava rock
+* Determine force of friction on the lava rock
+
+More details on how students are graded for this can be found in the assignment itself, which is under Documents in Challenge 1: Hercules's Push folder. The document is listed as docx and PDF files.
+
+The grading rubric, which is the same for all challenges, is included below:
+
+| Proficiency Level  | Points Awarded | Grade |
+| ------------- | ------------- | ------------ |
+| **Not Yet**: You have not correctly completed any of the elements of this challenge component. | 0 | 50% |
+| **Approaching Proficiency**: You have correctly completed at least one element of this challenge component. | 10 | 60% |
+| **Somewhat Proficient**: You have correctly completed half of the elements of this challenge component. | 20 | 70% |
+| **Proficient**: You have correctly completed all of the elements of this challenge component. | 30 | 85% |
+| **Exceeding Proficiency**: You have additionally and correctly completed the independent element of this challenge component.  | 40 | 100% |
+
+**Student Example**
 
 ## Challenge 10: Resupply Mission
 [IMAGE OF CHALLENGE FIELD]
 
+**Engineering Component**
+
+For this challenge, students are tasked with pushing a lava rock from one end of the field to the other. Points are determined based on accuracy to the target location as shown below:
+
+| Distance from Target  | Points Awarded |
+| ------------- | ------------- |
+| Not Attempted  | 0  |
+| <2cm  | 20  |
+| <4cm  | 15  |
+| <6cm  | 5  |
+
+**Physics Component**
+
+This challenge requires students to be familiar with kinematics (as well as forces) concepts and coding in micropython, as they will be required to:
+
+* Program their rover so that it has constant acceleration
+* Use a kinematic equation to determine the push and net accelerations of their rover
+* Create force diagrams for the lava rock
+* Determine force of friction on the lava rock
+
+More details on how students are graded for this can be found in the assignment itself, which is under Documents in Challenge 1: Hercules's Push folder. The document is listed as docx and PDF files.
+
+The grading rubric, which is the same for all challenges, is included below:
+
+| Proficiency Level  | Points Awarded | Grade |
+| ------------- | ------------- | ------------ |
+| **Not Yet**: You have not correctly completed any of the elements of this challenge component. | 0 | 50% |
+| **Approaching Proficiency**: You have correctly completed at least one element of this challenge component. | 10 | 60% |
+| **Somewhat Proficient**: You have correctly completed half of the elements of this challenge component. | 20 | 70% |
+| **Proficient**: You have correctly completed all of the elements of this challenge component. | 30 | 85% |
+| **Exceeding Proficiency**: You have additionally and correctly completed the independent element of this challenge component.  | 40 | 100% |
+
+**Student Example**
 
 # Tips
