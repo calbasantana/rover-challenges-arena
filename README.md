@@ -24,9 +24,9 @@ The Challenges Arena was constructed with the aid of a lasercutter, 3D printer, 
 * [Braided Rope ($9.99)](https://www.amazon.com/MaxxHaul-50227-Strength-Sunlight-Resistant-Multicolor/dp/B07X64Z69L/ref=sr_1_1?crid=2B23R4N5A2BX8&dib=eyJ2IjoiMSJ9.vX42Ucwmw4k0bD5FDlHEoYoZ1eOJe3dpnWChK3ya16vBR6mXtR0iEoQtrr280W5rxZje9oe-2tDafWHfKAmmX29tTzUf3edLibGl1Oe-Nrhzq-03ek-61rh2IldE9l22u6StnLa9bX5viGIRuAySAdo2TYzv4lBuIG1Dvl3RKiVqlJKpWu668c0G8IeU9q8C.Eg5nECh_pmGK6JNrQ-JtpWu6llSGSfZgjDYm4Y7K-kM&dib_tag=se&keywords=maxxhaul%2B50227&qid=1746033619&sprefix=maxxhaul%2B50227%2Caps%2C93&sr=8-1&th=1)
 * [2 Triangle Shelf Brackets ($9.49)](https://www.amazon.com/Dewell-Triangle-Brackets-Mounted-Supports/dp/B07QLK6PWS/ref=sr_1_5?crid=YEVDP2NLS14D&dib=eyJ2IjoiMSJ9.mD8NFGLjEl_Ew-2HTP1eDbLqgqMKLC9IvO6CuOn-fwEfRfk5x3rQ_5cWb3hpmZ3jvYcyyHJylOhzYPvnqqkSGKlc2IC09MW2F0YGaAlDDVQR48LqzwzBc-O_qaMosoYeTF8Y7OUFtbdcV_yizJEu2ZaxPUqsztRnCKrZWY2Vo4NHhBFQFuSHTPqvb3X9Z8JXQjFqCRZ6qYQJtxSA6MWXTiSjNSjlj3MvDjPNSzt8NPLy7o74yaKyep7O4pfCb6bhiOXQ2iOse2Fi3bK5UARF3tEqIfUCytR-OoZ77Ga6hkw.1tmzoMcrdr8rDU49Leq5dS9wHz987PSkPxzHXIsKmU0&dib_tag=se&keywords=2%2Bpcs%2B8inch%2Btripod%2Btriangle%2Bshelf%2Bbrackets%2C%2Bwall%2Bmounted%2Bshelf%2Bsupports%2Bblack%2C%2Bbt200&qid=1746033457&sprefix=2%2Bpcs%2B8inch%2Btripod%2Btriangle%2Bshelf%2Bbrackets%2C%2Bwall%2Bmounted%2Bshelf%2Bsupports%2Bblack%2C%2Bbt200%2Caps%2C76&sr=8-5&th=1)
 
-**Challenge 5: Surface Navigation with Lunar Rock Terrain**
+**Challenge 5: Surface Navigation Terrain**
 
-For Challenge 5: Surface Navigation with Lunar Rock, I made a model of the lunar surface because I wanted students to experience navigating difficult terrain; to create this, I used the following materials:
+For Challenge 5: Surface Navigation, I made a model of the lunar surface because I wanted students to experience navigating difficult terrain; to create this, I used the following materials:
 
 * [10lb Large Black Lava Rocks ($29.99)](https://www.amazon.com/Onlyfire-Granules-Decorative-Outdoor-Fireplaces/dp/B0BPL24PYG/ref=sr_1_2_sspa?crid=3P5FI6RRUCZOB&dib=eyJ2IjoiMSJ9.JmOM5-lc2pH3OgQG5RZ3RozwimWolB-MQtRG4gYwChcYMLeNrl9B_ecJg2Kwf1XEiKgSEjfYcLbgHkoEw6H10cuYDTpWjFuTIaxZy1kq6CTBDHaf2NBNoJP7Ut9SLHtBp7Bs9rZFNv6Ffio4pxGRK9FwWIsDUkMPAjzK8Qc33fJ1br5mVGf3RGM6X3RldxumpyvoUUZO7Ob2PtoeRiAyo6OaegZk7BuCqlGGBg0MNW63owIhHmhjhO2-nPDYkPsRbmN7LJqcO_U0uBJgWZkgPbCT6Uj-o0BjGqWU9NmeOXI.lii--GXzkwfce3hvZe2r9nkoplsU8O3dqV0LXwFIckA&dib_tag=se&keywords=black%2B1-3%2Binch%2Blava%2Brock&qid=1746036115&sprefix=black%2B1-3%2Binch%2Blava%2Broc%2Caps%2C108&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1)
 * [5 Bags of Medium (1/2" - 1") Lava Rocks ($12.35 each, or $61.75 total)](https://www.amazon.com/American-Fireglass-Medium-Lava-Rock/dp/B002NHW0NS/ref=sr_1_1?crid=26286EVLSD759&dib=eyJ2IjoiMSJ9.whcHQovDUftm9bnUpW3bYk_ffljyis4tszzlPtJs_B8YAITusGs_YG4jB-miDM0L7OVhpzIor3L5HAgjnvo8Eaem8LbPDLxiVwBtpnwcSoVXwiGCIGEW_H7scKNLHKJjNIq4a0O22X0owtAFRruY1HUlGZ391XMr69hKJibGmIK2loJ454v8dBkVKuwN5bbnipV_dP0TGbsYsCnsyzxvwVAfUd9X0xketRhrYjXtaZP_L37A97RE68wjLa4Bis8i9tu2UkozuS-dGjpoPI-vLnDNrjuJDmD0G1PJ8LhpCbM.fskn1cddL_ro2n-t12f4J_kMwMXGLl8hRejJngE0DeA&dib_tag=se&keywords=american%2Bfireglass%2Bmedium%2Blava%2Brock&qid=1746036162&sprefix=american%2Bfireglass%2Bmedium%2Blava%2Brock%2Caps%2C87&sr=8-1&th=1)
@@ -112,7 +112,7 @@ For spray painting, I went outside on a nice cool day and began color coding thi
 ## Assembly
 Once all parts have been completed and relevant parts spray painted, it's time for assembly. I highly suggest building the middle layer first so you can connect the large walnut sheet across both tables, which will provide some stability as you go on to assemble the rest. I expct assembly to take a full day or two given all the parts and screwing of components required.
 
-For Challenge 5: Surface Navigation with Lunar Rock, I recommend adding some tape along the walls so the mixture doesn't seep through easily. You can include as many or as few rocks as you would like. I recommend using the medium-sized rocks all throughout the surface and the larger rocks for Challenge 1: Hercules's Push and maybe a few spread out on the Challenge 5: Surface Navigation with Lunar Rock.
+For Challenge 5: Surface Navigation, I recommend adding some tape along the walls so the mixture doesn't seep through easily. You can include as many or as few rocks as you would like. I recommend using the medium-sized rocks all throughout the surface and the larger rocks for Challenge 1: Hercules's Push and maybe a few spread out on the Challenge 5: Surface Navigation.
 
 # Challenges Overview
 This part is the most relevant for students as it relates to what each challenge is specifically asking, so some students viewing this repository might want to skip to this section. For each challenge, there is an **Engineering Component** and a **Physics Component**. Students will be awarded points based on both the physical completion of the challenge (the former) and the completion of the mini-lab associated with it (the latter).
@@ -296,7 +296,7 @@ Below you can see how a group of students was able to complete this challenge. P
 
 [VIDEO]
 
-## Challenge 5: Surface Navigation with Lunar Rock
+## Challenge 5: Surface Navigation
 [IMAGE OF CHALLENGE FIELD]
 
 **Engineering Component**
@@ -321,7 +321,7 @@ This challenge requires students to be familiar with kinematics concepts and cod
 * Determine the average velocity of their rover
 * Determine the acceleration of their rover
 
-More details on how students are graded for this can be found in the assignment itself, which is under Documents in Challenge 5: Surface Navigation with Lunar Rock folder. The document is listed as docx and PDF files.
+More details on how students are graded for this can be found in the assignment itself, which is under Documents in Challenge 5: Surface Navigation folder. The document is listed as docx and PDF files.
 
 The grading rubric, which is the same for all challenges, is included below:
 
