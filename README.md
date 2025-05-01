@@ -121,30 +121,61 @@ For this assignment, students are tasked with pushing a lava rock from one end o
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
+**Student Example**
+
+For this challenge, you can see below how a team of students was able to complete it.
+
+[VIDEO]
+
 ## Challenge 2: How Far?
 [IMAGE OF CHALLENGE FIELD]
 
+**Student Example**
+
+For this challenge, you can see below how a team of students was able to complete it.
+
+[VIDEO]
 
 ## Challenge 3: A Rocky Landing
 [IMAGE OF CHALLENGE FIELD]
 
+**Student Example**
+
+At time of writing, there has yet to be a team to complete this challenge. It is incredibly difficult.
 
 ## Challenge 4: A Way Out
 [IMAGE OF CHALLENGE FIELD]
 
+**Student Example**
+
+Below you can see how a group of students was able to complete this challenge. Specifically coding to achieve this is not included because writing the code is part of the challenge.
+
+[VIDEO]
 
 ## Challenge 5: Surface Navigation
 [IMAGE OF CHALLENGE FIELD]
 
+**Student Example**
+
 
 ## Challenge 6: Welcome to Seattle
+[IMAGE OF CHALLENGE FIELD]
+
 
 ## Challenge 7: Down the Canyon
+[IMAGE OF CHALLENGE FIELD]
+
 
 ## Challenge 8: Giving a Gift
+[IMAGE OF CHALLENGE FIELD]
+
 
 ## Challenge 9: SUMO
+[IMAGE OF CHALLENGE FIELD]
+
 
 ## Challenge 10: Resupply Mission
+[IMAGE OF CHALLENGE FIELD]
+
 
 # Tips
