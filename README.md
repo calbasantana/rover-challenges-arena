@@ -85,8 +85,8 @@ XTool Creative Studio (XCS)
 
 #### Settings (for cutting)
 Power (%): 100 \
-Speed (mm/s): 4 \
-Pass: 3
+Speed (mm/s): 5 \
+Pass: 1
 
 ## Hand Sawn Parts
 The last set of parts are those that need to be sawn. I purchased the large walnut sheets from Home Depot (HD) and got someone to saw them for me. For the small parts, I used a hand saw. Below are the dimensions required:
