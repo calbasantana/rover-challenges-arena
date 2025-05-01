@@ -112,6 +112,8 @@ For Challenge 5: Surface Navigation, I recommend adding some tape along the wall
 This part is the most relevant for students as it relates to what each challenge is specifically asking, so some students viewing this repository might want to skip to this section.
 
 ## Challenge 1: Hercules's Push
+[IMAGE of CHALLENGE FIELD]
+
 For this assignment, students are tasked with pushing a lava rock from one end of the field to the other. Points are determined based on accuracy to the target location as shown below:
 
 | First Header  | Second Header |
@@ -120,12 +122,20 @@ For this assignment, students are tasked with pushing a lava rock from one end o
 | Content Cell  | Content Cell  |
 
 ## Challenge 2: How Far?
+[IMAGE OF CHALLENGE FIELD]
+
 
 ## Challenge 3: A Rocky Landing
+[IMAGE OF CHALLENGE FIELD]
+
 
 ## Challenge 4: A Way Out
+[IMAGE OF CHALLENGE FIELD]
+
 
 ## Challenge 5: Surface Navigation
+[IMAGE OF CHALLENGE FIELD]
+
 
 ## Challenge 6: Welcome to Seattle
 
