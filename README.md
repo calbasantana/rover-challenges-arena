@@ -52,7 +52,7 @@ I decided to use spray paint for the stencils, although in retrospect, it may ha
 
 ## CAD Model
 
-[IMAGE OF CAD MODEL]
+![Challenges Arena CAD Model](media/screenshots/arena_CAD_model.png)
 
 The fully completed CAD model is included above. It is important to note that there are over 150 parts to this design, so there will be a lot that needs to be lasercut and 3D printed. It is my largest project as of writing. Nevertheless, I do hope that the organization of the folders will make it easier to manufacture the components for this.
 
