@@ -51,7 +51,9 @@ I decided to use spray paint for the stencils, although in retrospect, it may ha
 * [3M Professional Paint Spray Respirator Medium ($48.98)](https://www.homedepot.com/p/3M-Professional-Paint-Spray-Respirator-Medium-7512PA1-A-PS/202077812)
 
 ## CAD Model
+<p align="center">
 <img src="media/screenshots/arena_CAD_model.png" alt="Challenges Arena CAD Model" width="400"/>
+</p>
 
 The fully completed CAD model is included above. It is important to note that there are over 150 parts to this design, so there will be a lot that needs to be lasercut and 3D printed. It is my largest project as of writing. Nevertheless, I do hope that the organization of the folders will make it easier to manufacture the components for this.
 
