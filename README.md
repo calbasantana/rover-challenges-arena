@@ -179,11 +179,6 @@ The grading rubric, which is the same for all challenges, is included below:
 
 This was a very easy challenge for most students to complete; below you can see an example from a team who completed it.
 
-<p align="center">
-  <video src="media/videos/challenge_1_video_1.mp4" alt="Spray Painting Photo 1" width="400"/>
-  <video src="media/videos/challenge_1_video_2.mp4" alt="Spray Painting Photo 2" width="400"/>
-</p>
-
 [VIDEO]
 
 ## Challenge 2: How Far?
