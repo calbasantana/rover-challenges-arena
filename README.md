@@ -179,9 +179,10 @@ The grading rubric, which is the same for all challenges, is included below:
 
 This was a very easy challenge for most students to complete; below you can see an example from a team who completed it.
 
-caption1 | caption2
-:-: | :-:
-<video src='media/videos/challenge_1_video_1.MOV' width=180/> | <video src='media/videos/challenge_1_video_2.MOV' width=180/>
+<p align="center">
+<video src='media/videos/challenge_1_video_1.MOV' width=180/> 
+<video src='media/videos/challenge_1_video_2.MOV' width=180/>
+</p>
 
 ## Challenge 2: How Far?
 [IMAGE OF CHALLENGE FIELD]
