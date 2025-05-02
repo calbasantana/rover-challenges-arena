@@ -177,9 +177,7 @@ The grading rubric, which is the same for all challenges, is included below:
 
 **Student Example**
 
-This was a very easy challenge for most students to complete; below you can see an example from a team who completed it.
-
-![Challenge 1 Video 1](media/videos/challenge_1_video_1.mp4)
+This was a very easy challenge for most students to complete, so you will be able to see two video examples under media/videos.
 
 ## Challenge 2: How Far?
 [IMAGE OF CHALLENGE FIELD]
@@ -216,9 +214,7 @@ The grading rubric, which is the same for all challenges, is included below:
 
 **Student Example**
 
-For this challenge, you can see below how a team of students was able to complete it. However, please note that students will no longer be allowed to use an additional field to extend the length and reach of their attachments.
-
-[VIDEO]
+For this challenge, you can see under media/videos how a team of students was able to complete it. However, please note that students will no longer be allowed to use an additional field to extend the length and reach of their attachments.
 
 ## Challenge 3: A Rocky Landing
 [IMAGE OF CHALLENGE FIELD]
@@ -297,9 +293,7 @@ The grading rubric, which is the same for all challenges, is included below:
 
 **Student Example**
 
-Below you can see how a group of students was able to complete this challenge. Please note that the most difficult element of completing this challenge is the coding, which will require a lot of trial and error.
-
-[VIDEO]
+Unfortunately, I do not presently have a video to show here, but one team has completed this challenge in the past. Please note that the most difficult element of completing this challenge is the coding, which will require a lot of trial and error.
 
 ## Challenge 5: Surface Navigation
 [IMAGE OF CHALLENGE FIELD]
@@ -340,9 +334,7 @@ The grading rubric, which is the same for all challenges, is included below:
 
 **Student Example**
 
-Below you will find a video of how a team completed the engineering component of this challenge.
-
-[VIDEO]
+Under media/videos you will find a video of how a team completed the engineering component of this challenge.
 
 ## Challenge 6: Welcome to Seattle
 [IMAGE OF CHALLENGE FIELD]
@@ -416,9 +408,7 @@ The grading rubric, which is the same for all challenges, is included below:
 
 **Student Example**
 
-Below is an example of a team who were able to complete this challenge.
-
-[VIDEO]
+I currently do not have a video of this challenge being completed, but one group has completed in the past and three have attempted it.
 
 ## Challenge 8: Giving a Gift
 [IMAGE OF CHALLENGE FIELD]
@@ -464,9 +454,7 @@ The grading rubric, which is the same for all challenges, is included below:
 
 **Student Example**
 
-The last time I ran this, only one team decided to attempt the challenge, so this is the only available video of students completing this challenge that I have.
-
-[VIDEO]
+The last time I ran this, only one team decided to attempt the challenge, so this is the only available video of students completing this challenge that I have; please find this video under media/videos.
 
 ## Challenge 9: SUMO
 [IMAGE OF CHALLENGE FIELD]
@@ -506,9 +494,7 @@ The grading rubric, which is the same for all challenges, is included below:
 
 **Student Example**
 
-Below you will see one of many videos I have of students competing in this challenge.
-
-[VIDEO]
+Under media/videos, you will see two of many videos I have of students competing in this challenge.
 
 ## Challenge 10: Resupply Mission
 [IMAGE OF CHALLENGE FIELD]
@@ -551,9 +537,7 @@ The grading rubric, which is the same for all challenges, is included below:
 
 **Student Example**
 
-In the previous year, only one team signed up to complete this challenge and they were able to complete it successfully. Here is the video from that team.
-
-[VIDEO]
+In the previous year, only one team signed up to complete this challenge and they were able to complete it successfully. However, I do not have a video of them completing it presently.
 
 # Tips
 
