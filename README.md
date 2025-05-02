@@ -105,7 +105,7 @@ Once you have finished these parts, you will be ready to use the stencils and sp
 
 ## Stencils and Spray Painting
 
-![Spray Painting Photo 1](media/photos/spray_painting_photo_1.jpg) ![Spray Painting Photo 2](media/photos/spray_painting_photo_2.jpg)
+![Spray Painting Photo 1](media/photos/spray_painting_photo_1.jpg width="45%") ![Spray Painting Photo 2](media/photos/spray_painting_photo_2.jpg)
 
 For spray painting, I went outside on a nice cool day and began color coding things. You might do things differently, but you can tell from the pictures of the challenges how I decided to color things. In retrospect, as I mentioned before, I think I should have opted for acrylic paint because some of the spray paint didn't stick too well or bled out too much into the wood grain.
 
