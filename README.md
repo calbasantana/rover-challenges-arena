@@ -51,6 +51,7 @@ I decided to use spray paint for the stencils, although in retrospect, it may ha
 * [3M Professional Paint Spray Respirator Medium ($48.98)](https://www.homedepot.com/p/3M-Professional-Paint-Spray-Respirator-Medium-7512PA1-A-PS/202077812)
 
 ## CAD Model
+
 <p align="center">
 <img src="media/screenshots/arena_CAD_model.png" alt="Challenges Arena CAD Model" width="400"/>
 </p>
@@ -105,8 +106,10 @@ The last set of parts are those that need to be sawn. I purchased the large waln
 Once you have finished these parts, you will be ready to use the stencils and spray paint.
 
 ## Stencils and Spray Painting
+
 <p align="center">
-<img src="media/photos/spray_painting_photo_1.jpg" alt="Spray Painting Photo 1" width="400"/> <img src="media/photos/spray_painting_photo_2.jpg" alt="Spray Painting Photo 2" width="400"/>
+  <img src="media/photos/spray_painting_photo_1.jpg" alt="Spray Painting Photo 1" width="400"/>
+  <img src="media/photos/spray_painting_photo_2.jpg" alt="Spray Painting Photo 2" width="400"/>
 </p>
 
 For spray painting, I went outside on a nice cool day and began color coding things. You might do things differently, but you can tell from the pictures of the challenges how I decided to color things. In retrospect, as I mentioned before, I think I should have opted for acrylic paint because some of the spray paint didn't stick too well or bled out too much into the wood grain.
