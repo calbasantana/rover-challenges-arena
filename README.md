@@ -179,7 +179,7 @@ The grading rubric, which is the same for all challenges, is included below:
 
 This was a very easy challenge for most students to complete; below you can see an example from a team who completed it.
 
-<video src='media/videos/challenge_1_video_1.MOV' width=180/> 
+<video src='media/videos/challenge_1_video_1.MOV' width=180/>
 
 ## Challenge 2: How Far?
 [IMAGE OF CHALLENGE FIELD]
