@@ -177,10 +177,11 @@ The grading rubric, which is the same for all challenges, is included below:
 
 **Student Example**
 
-This was a very easy challenge for most students to complete, so you will be able to see two video examples under media/videos.
+This was a very easy challenge for most students to complete, so you will be able to see two video examples below (as well as under media/videos).
 
-file:///home/chris/challenge_1_video_1.mp4
+https://github.com/user-attachments/assets/afdffd39-8b7c-4cd7-a783-8676905cb639
 
+https://github.com/user-attachments/assets/8b72730f-63d5-43e9-9725-9e6176717091
 
 ## Challenge 2: How Far?
 [IMAGE OF CHALLENGE FIELD]
@@ -217,7 +218,9 @@ The grading rubric, which is the same for all challenges, is included below:
 
 **Student Example**
 
-For this challenge, you can see under media/videos how a team of students was able to complete it. However, please note that students will no longer be allowed to use an additional field to extend the length and reach of their attachments.
+For this challenge, you can see below and under media/videos how a team of students was able to complete it. However, please note that students will no longer be allowed to use an additional field to extend the length and reach of their attachments.
+
+https://github.com/user-attachments/assets/25190a58-6e21-4ddf-ae70-2b8eacff4d61
 
 ## Challenge 3: A Rocky Landing
 [IMAGE OF CHALLENGE FIELD]
@@ -337,7 +340,9 @@ The grading rubric, which is the same for all challenges, is included below:
 
 **Student Example**
 
-Under media/videos you will find a video of how a team completed the engineering component of this challenge.
+Below and under media/videos you will find a video of how a team completed the engineering component of this challenge.
+
+https://github.com/user-attachments/assets/06d660ac-c105-4a08-b690-703fcb1c7aff
 
 ## Challenge 6: Welcome to Seattle
 [IMAGE OF CHALLENGE FIELD]
@@ -457,7 +462,9 @@ The grading rubric, which is the same for all challenges, is included below:
 
 **Student Example**
 
-The last time I ran this, only one team decided to attempt the challenge, so this is the only available video of students completing this challenge that I have; please find this video under media/videos.
+The last time I ran this, only one team decided to attempt the challenge, so this is the only available video of students completing this challenge that I have; please find this video below and under media/videos.
+
+https://github.com/user-attachments/assets/4569af59-405b-4fd5-b390-9fb119e761e6
 
 ## Challenge 9: SUMO
 [IMAGE OF CHALLENGE FIELD]
@@ -497,7 +504,11 @@ The grading rubric, which is the same for all challenges, is included below:
 
 **Student Example**
 
-Under media/videos, you will see two of many videos I have of students competing in this challenge.
+Below and under media/videos, you will see two of many videos I have of students competing in this challenge.
+
+https://github.com/user-attachments/assets/32562579-a1fd-41d3-9cc3-c7402d23a0af
+
+https://github.com/user-attachments/assets/70a44815-16cc-4bab-8fb9-d8a62cc48f33
 
 ## Challenge 10: Resupply Mission
 [IMAGE OF CHALLENGE FIELD]
