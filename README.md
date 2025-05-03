@@ -180,7 +180,7 @@ The grading rubric, which is the same for all challenges, is included below:
 This was a very easy challenge for most students to complete, so you will be able to see two video examples under media/videos.
 
 
-![](https://youtu.be/v-o7bL9PoDg)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/v-o7bL9PoDg/0.jpg)](https://www.youtube.com/watch?v=v-o7bL9PoDg)
 
 ## Challenge 2: How Far?
 [IMAGE OF CHALLENGE FIELD]
