@@ -28,6 +28,20 @@ The Challenges Arena was constructed with the aid of a lasercutter, 3D printer, 
 * [Braided Rope ($9.99)](https://www.amazon.com/MaxxHaul-50227-Strength-Sunlight-Resistant-Multicolor/dp/B07X64Z69L/ref=sr_1_1?crid=2B23R4N5A2BX8&dib=eyJ2IjoiMSJ9.vX42Ucwmw4k0bD5FDlHEoYoZ1eOJe3dpnWChK3ya16vBR6mXtR0iEoQtrr280W5rxZje9oe-2tDafWHfKAmmX29tTzUf3edLibGl1Oe-Nrhzq-03ek-61rh2IldE9l22u6StnLa9bX5viGIRuAySAdo2TYzv4lBuIG1Dvl3RKiVqlJKpWu668c0G8IeU9q8C.Eg5nECh_pmGK6JNrQ-JtpWu6llSGSfZgjDYm4Y7K-kM&dib_tag=se&keywords=maxxhaul%2B50227&qid=1746033619&sprefix=maxxhaul%2B50227%2Caps%2C93&sr=8-1&th=1)
 * [2 Triangle Shelf Brackets ($9.49)](https://www.amazon.com/Dewell-Triangle-Brackets-Mounted-Supports/dp/B07QLK6PWS/ref=sr_1_5?crid=YEVDP2NLS14D&dib=eyJ2IjoiMSJ9.mD8NFGLjEl_Ew-2HTP1eDbLqgqMKLC9IvO6CuOn-fwEfRfk5x3rQ_5cWb3hpmZ3jvYcyyHJylOhzYPvnqqkSGKlc2IC09MW2F0YGaAlDDVQR48LqzwzBc-O_qaMosoYeTF8Y7OUFtbdcV_yizJEu2ZaxPUqsztRnCKrZWY2Vo4NHhBFQFuSHTPqvb3X9Z8JXQjFqCRZ6qYQJtxSA6MWXTiSjNSjlj3MvDjPNSzt8NPLy7o74yaKyep7O4pfCb6bhiOXQ2iOse2Fi3bK5UARF3tEqIfUCytR-OoZ77Ga6hkw.1tmzoMcrdr8rDU49Leq5dS9wHz987PSkPxzHXIsKmU0&dib_tag=se&keywords=2%2Bpcs%2B8inch%2Btripod%2Btriangle%2Bshelf%2Bbrackets%2C%2Bwall%2Bmounted%2Bshelf%2Bsupports%2Bblack%2C%2Bbt200&qid=1746033457&sprefix=2%2Bpcs%2B8inch%2Btripod%2Btriangle%2Bshelf%2Bbrackets%2C%2Bwall%2Bmounted%2Bshelf%2Bsupports%2Bblack%2C%2Bbt200%2Caps%2C76&sr=8-5&th=1)
 
+**Challenge 2: How Far? Surface Friction Materials**
+
+For Challenge 2: How Far?, I also bought two types of materials, which I cut up and attached using velcro to the inner sides of the challenge to simulate friction versus different materials. I left a few sheets of each material as spare material for students to use for finding the coefficients of friction. Here is what I bought:
+
+* [8.5"x11" 1/8" Thick Corrugated Cardboard Sheets ($14.89)](https://www.amazon.com/Corrugated-Cardboard-Shipping-Cushioning-Packing/dp/B09JQ6KPGB/ref=sr_1_5?crid=24AP2PO91IIMJ&dib=eyJ2IjoiMSJ9.mVz5mYVbFpiK2Ob5tQTL-UTNrJScz7ZvK6hTQ8XgnFBaSxqcSFKIMK4lxmUnh0hu7RYNgLkJfLXKJ9Y26PTa-TNvAdP1JpOkkMLVpEODArhCmuCWj1rYC-oB-UTTRx2KaWQabG6M-Yxvjm1bChQlhVPli67__ik0jgKUiarmQTshtxG_7AXT2jnlbQgZBTaO_zeiN67Ibi3bUKvs7Yi06DwEFDAjxZxBBA-4vw10uqPBdFyPWuKlEiMGPtW0FcTC2AwLYLXNo2ahTszv476F7jXLHNB5kl-ck6Ed642yfNI.71vymdxDtq33bY5zFwaEXo9Y9djcdET8LstgaUuaa7s&dib_tag=se&keywords=cardboard%2B25%2Bpack%2Blaser%2Bcut&qid=1747414238&s=office-products&sprefix=cardboard%2B25%2Bpack%2Blaser%2Bcut%2Coffice-products%2C64&sr=1-5&th=1)
+* [9"x11" 120 Grit Sandpaper Sheets ($12.42)](https://www.amazon.com/Sungold-Abrasives-11108-Stearated-Aluminum/dp/B005YUJM3C/ref=sr_1_55?crid=34TLTW8DKNLL8&dib=eyJ2IjoiMSJ9.XZ87joDvBQ_S6jlAofhsMzrjhoHHV8NNNVkBOvN4q3cGzrLMwxV8Dl94hkBss-Ik7enmYUURN3YHknOOvgxh7tZs5C8p_wiLzhps9ncJrPY20nYEYiSStbyqWDd95F4gWE3ZWWAOz_UPybk30hzrZduDk8NSPspvnGgBU_G5bz-PrYnAK6twieoO2gvpbHfYDWb5KJReckyU4vQciqqUgNbK-pn5qTvG5t9O83ilrZWX5PkM0ub-oWZCOSFKyPS21Tp4VyMH3npkT7Ehn_pihAh2xSf6NZaCTNl3iy4Xnvg.QSOgOWbI9gs6AiSmcPJxAN9ONgTKXtfb4SSVXCYwH98&dib_tag=se&keywords=120%2Bsandpaper%2Bsheet&qid=1747414375&sprefix=120%2Bsandpaper%2Bsheet%2Caps%2C112&sr=8-55&xpid=SLT4424ZRaLj3&th=1)
+* [VELCRO Fasteners ($18.89)](https://www.amazon.com/VELCRO-Brand-Sticky-Fasteners-Perfect/dp/B000GRBEK2/ref=sr_1_15?crid=2UXN3608AET63&dib=eyJ2IjoiMSJ9.w7Ius3vdTGDXu1TDodau6QTyc2PlO9Csf_BSR5eMv-BZLDgShheeTdMWPX2p_Xd71RHx8t0UhcqaFA2jBSXbMZkoieCKiDGb9Jxeda2bkq6GGOtvV-62gW5KXJqpAiG97mGbDWzwE0O11iViYSrl337DcBM6qobI2pUQH_wb1YqxhpSxU5b4ZwIyyZrzMlYz8UIioA_FSW28tN5GPZLJiV2egaFdWTEGYM3i0oolIao.7FYsQofr8gJoYtVrv5xH50Xk2HON_wdlToaBha1vWP4&dib_tag=se&keywords=velcro%2Broll&qid=1747414504&sprefix=velcro%2Broll%2Caps%2C96&sr=8-15&th=1)
+
+Please note that I did three strips of Velcro, as shown below:
+
+<p align="center">
+<img src="media/photos/challenge_2_velcro_setup.jpg" alt="Challenge 2 Velcro Setup" width="400"/>
+</p>
+
 **Challenge 5: Surface Navigation Terrain**
 
 For Challenge 5: Surface Navigation, I made a model of the lunar surface because I wanted students to experience navigating difficult terrain; to create this, I used the following materials:
