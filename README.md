@@ -159,7 +159,10 @@ Essentially, each pair of students will each complete one engineering component 
 A complete description of each challenge will be found below. Please note that the maximum number of points possible is 800, but teams average around 100-200 historically.
 
 ## Challenge 1: Hercules's Push
-[IMAGE of CHALLENGE FIELD]
+
+<p align="center">
+<img src="media/photos/challenge_1.jpg" alt="Challenge 1" width="400"/>
+</p>
 
 **Engineering Component**
 
@@ -202,7 +205,10 @@ https://github.com/user-attachments/assets/afdffd39-8b7c-4cd7-a783-8676905cb639
 https://github.com/user-attachments/assets/8b72730f-63d5-43e9-9725-9e6176717091
 
 ## Challenge 2: How Far?
-[IMAGE OF CHALLENGE FIELD]
+
+<p align="center">
+<img src="media/photos/challenge_2.jpg" alt="Challenge 2" width="400"/>
+</p>
 
 **Engineering Component**
 
@@ -279,7 +285,10 @@ The grading rubric, which is the same for all challenges, is included below:
 At time of writing, there has yet to be a team to complete this challenge. It is incredibly difficult.
 
 ## Challenge 4: A Way Out
-[IMAGE OF CHALLENGE FIELD]
+
+<p align="center">
+<img src="media/photos/challenge_4.jpg" alt="Challenge 4" width="400"/>
+</p>
 
 **Engineering Component**
 
@@ -320,7 +329,10 @@ The grading rubric, which is the same for all challenges, is included below:
 Unfortunately, I do not presently have a video to show here, but one team has completed this challenge in the past. Please note that the most difficult element of completing this challenge is the coding, which will require a lot of trial and error.
 
 ## Challenge 5: Surface Navigation
-[IMAGE OF CHALLENGE FIELD]
+
+<p align="center">
+<img src="media/photos/challenge_5.jpg" alt="Challenge 5" width="400"/>
+</p>
 
 **Engineering Component**
 
@@ -437,7 +449,10 @@ The grading rubric, which is the same for all challenges, is included below:
 I currently do not have a video of this challenge being completed, but one group has completed in the past and three have attempted it.
 
 ## Challenge 8: Giving a Gift
-[IMAGE OF CHALLENGE FIELD]
+
+<p align="center">
+<img src="media/photos/challenge_8.jpg" alt="Challenge 8" width="400"/>
+</p>
 
 **Engineering Component**
 
@@ -485,7 +500,10 @@ The last time I ran this, only one team decided to attempt the challenge, so thi
 https://github.com/user-attachments/assets/4569af59-405b-4fd5-b390-9fb119e761e6
 
 ## Challenge 9: SUMO
-[IMAGE OF CHALLENGE FIELD]
+
+<p align="center">
+<img src="media/photos/challenge_9.jpg" alt="Challenge 9" width="400"/>
+</p>
 
 **Engineering Component**
 
@@ -529,7 +547,10 @@ https://github.com/user-attachments/assets/32562579-a1fd-41d3-9cc3-c7402d23a0af
 https://github.com/user-attachments/assets/70a44815-16cc-4bab-8fb9-d8a62cc48f33
 
 ## Challenge 10: Resupply Mission
-[IMAGE OF CHALLENGE FIELD]
+
+<p align="center">
+<img src="media/photos/challenge_10.jpg" alt="Challenge 10" width="400"/>
+</p>
 
 **Engineering Component**
 
