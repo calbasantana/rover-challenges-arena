@@ -247,7 +247,10 @@ For this challenge, you can see below and under media/videos how a team of stude
 https://github.com/user-attachments/assets/25190a58-6e21-4ddf-ae70-2b8eacff4d61
 
 ## Challenge 3: A Rocky Landing
-[IMAGE OF CHALLENGE FIELD]
+
+<p align="center">
+<img src="media/photos/challenge_3.jpg" alt="Challenge 3" width="400"/>
+</p>
 
 **Engineering Component**
 
