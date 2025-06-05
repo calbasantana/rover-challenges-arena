@@ -421,7 +421,7 @@ As of yet, there has not been a single team who has completed this challenge, th
 ## Challenge 7: Down the Canyon
 
 <p align="center">
-<img src="media/photos/challenges_67.jpg" alt="Challenges 6 and 7" width="400"/>
+<img src="media/photos/challenge_67.jpg" alt="Challenges 6 and 7" width="400"/>
 </p>
 
 **Engineering Component**
