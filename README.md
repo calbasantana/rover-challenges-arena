@@ -381,7 +381,7 @@ https://github.com/user-attachments/assets/06d660ac-c105-4a08-b690-703fcb1c7aff
 
 
 <p align="center">
-<img src="media/photos/challenges_67.jpg" alt="Challenges 6 and 7" width="400"/>
+<img src="media/photos/challenge_67.jpg" alt="Challenges 6 and 7" width="400"/>
 </p>
 
 **Engineering Component**
