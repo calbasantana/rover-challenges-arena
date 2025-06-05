@@ -1,9 +1,9 @@
-# NOTE
-THIS IS A WORK IN PROGRESS. MORE IMAGES AND UPDATES TO COME TO THIS REPOSITORY.
-
 # Introduction
 
-[IMAGE OF CHALLENGES ARENA -- PHYSICAL]
+
+<p align="center">
+<img src="media/photos/challenges_overview.jpg" alt="Challenges Overview" width="400"/>
+</p>
 
 Over the past year, I have modified my introductory physics curriculum after experiencing FIRST Lego League (FLL) through the lens of a coach. In FLL, students are tasked with completing a series of challenges, for which they earn points, using a Lego robot in autonomous mode. In previous years, students had constructed a rover capable of navigating autonomously and completed one of the challenges laid out here (challenge 4 -- the maze challenge).
 
@@ -378,7 +378,11 @@ Below and under media/videos you will find a video of how a team completed the e
 https://github.com/user-attachments/assets/06d660ac-c105-4a08-b690-703fcb1c7aff
 
 ## Challenge 6: Welcome to Seattle
-[IMAGE OF CHALLENGE FIELD]
+
+
+<p align="center">
+<img src="media/photos/challenges_67.jpg" alt="Challenges 6 and 7" width="400"/>
+</p>
 
 **Engineering Component**
 
@@ -415,7 +419,10 @@ The grading rubric, which is the same for all challenges, is included below:
 As of yet, there has not been a single team who has completed this challenge, though many have tried; unfortunately, there is no student example to show here.
 
 ## Challenge 7: Down the Canyon
-[IMAGE OF CHALLENGE FIELD]
+
+<p align="center">
+<img src="media/photos/challenges_67.jpg" alt="Challenges 6 and 7" width="400"/>
+</p>
 
 **Engineering Component**
 
