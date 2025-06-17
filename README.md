@@ -12,6 +12,12 @@ Now, however, thanks to my FLL experiences, I have expanded from one challenge t
 * The construction of the arena
 * The challenges themselves
 
+Below you will find resources associated with this course and repository.
+
+**Associated Resources**:
+* [Introductory Physics Google Drive folder](https://drive.google.com/drive/folders/14O6FQSpFUbI4DR4CiFaPI4PMuGjOlXuQ?usp=drive_link)
+* [Rover Repository](https://github.com/calbasantana/rover)
+
 # Challenges Arena Construction
 The Challenges Arena was constructed with the aid of a lasercutter, 3D printer, and hand saw. Below you will find the complete list of materials used.
 
